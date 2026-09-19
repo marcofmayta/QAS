@@ -2,6 +2,8 @@
 
 **Un mismo cielo. Muchas voces.**
 
+[Visita QAS](https://marcofmayta.github.io/QAS/)
+
 QAS es un proyecto educativo que acerca la astronomía a estudiantes, familias y comunidades de Puno y del Perú, con contenidos en español, inglés, quechua y aimara. Combina explicaciones sencillas sobre el espacio, vocabulario y actividades para aprender en la escuela, en casa o en comunidad.
 
 Nace del interés por compartir ciencia en nuestras lenguas y crear un espacio donde la curiosidad por el universo pueda expresarse desde distintos contextos culturales.

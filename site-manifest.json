@@ -50,9 +50,10 @@
     "ay/aru-pirwa.html",
     "ay/yatiqana-lurawi.html",
     "robots.txt",
-    ".nojekyll"
+    ".nojekyll",
+    "sitemap.xml"
   ],
-  "siteUrl": null,
+  "siteUrl": "https://marcofmayta.github.io/QAS/",
   "canonicalPages": 48,
-  "requiresSiteUrl": true
+  "requiresSiteUrl": false
 }
