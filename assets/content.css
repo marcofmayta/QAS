@@ -1,0 +1,14 @@
+.topic-art{height:145px;display:flex;align-items:center;justify-content:center;background:radial-gradient(ellipse at 70% 15%,#334343,transparent 70%),#0b151d}
+.topic-symbol{font-size:85px;font-family:Georgia,serif;color:#d4ed9ac9;line-height:1;user-select:none}
+.topic-sun{background:radial-gradient(ellipse at 50% 80%,#6a4821,transparent 80%),#171b20}.topic-sun .topic-symbol{color:#f3ce83}
+.topic-moon{background:radial-gradient(ellipse at 40% 30%,#4a5367,transparent 80%),#111b26}.topic-moon .topic-symbol{color:#e1e6ed}
+.topic-earth{background:radial-gradient(ellipse at 50% 80%,#245758,transparent 80%),#111e24}
+.topic-stars,.topic-glossary{background:radial-gradient(ellipse at 50% 0%,#3d3657,transparent 80%),#111c28}
+.topic-andes,.topic-classroom{background:radial-gradient(ellipse at 30% 80%,#3f5131,transparent 80%),#141f22}
+.card[hidden]{display:none}.card-body{display:flex;flex-direction:column;flex:1}.card{display:flex;flex-direction:column}.card .small-link{margin-top:auto;align-self:start}.card h3{overflow-wrap:anywhere}.card .card-image{flex-shrink:0}
+.glossary{margin:25px 0}.glossary dt{color:var(--lime);font-weight:600;margin-top:20px}.glossary dd{margin:6px 0 0;line-height:1.8;color:#bdc7ca}
+.article-activity{padding:6px 20px;margin:25px 0;border-left:3px solid var(--lime);background:#d4ed9a08}.article-activity h3{font-size:16px}.article-activity p{margin-bottom:12px}dialog .source{padding-left:18px;line-height:2;overflow-wrap:anywhere}dialog h3{font-size:16px}dialog p,dialog h2,dialog dd{overflow-wrap:anywhere}
+.hero-foot{flex-wrap:wrap}.word-strip{gap:10px}nav a{text-align:center}
+.brand{flex-shrink:0}nav{flex-wrap:wrap;justify-content:center;min-width:0;column-gap:20px;row-gap:0}nav a{padding:12px 0}nav a.active:after{bottom:3px}.tag{max-width:calc(100% - 28px);overflow-wrap:anywhere}.button{max-width:100%;overflow-wrap:anywhere}.hero h1{overflow-wrap:anywhere}.hero-description,.culture p{overflow-wrap:anywhere}
+@media(max-width:740px){header{height:auto}nav a{flex:1 1 calc(50% - 10px)}.culture h3{overflow-wrap:anywhere}.section-heading .small-link{white-space:normal}.word strong{overflow-wrap:anywhere}}
+@media(max-width:740px){.topic-art{height:150px}.cards{gap:20px}.section-heading{flex-wrap:wrap}.hero-foot span+span:before{content:none;margin:0}.word-strip{grid-template-columns:1fr}.word{padding:8px 0}.word-intro{grid-column:1}.hero-foot{column-gap:15px;row-gap:10px}}

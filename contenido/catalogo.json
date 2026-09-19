@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "sourceLanguage": "es",
+  "articles": [
+    {
+      "id": "stars",
+      "category": "astronomy",
+      "symbol": "✧",
+      "sources": [
+        "universe"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.stars.p1",
+        "article.stars.p2",
+        "article.stars.p3"
+      ],
+      "activity": "article.stars.activity"
+    },
+    {
+      "id": "planets",
+      "category": "solar",
+      "symbol": "◎",
+      "sources": [
+        "solar"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.planets.p1",
+        "article.planets.p2",
+        "article.planets.p3",
+        "article.planets.p4"
+      ],
+      "activity": "article.planets.activity"
+    },
+    {
+      "id": "andes",
+      "category": "andino",
+      "symbol": "✺",
+      "sources": [
+        "reniec",
+        "minedu",
+        "mineduQu"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.andes.p1",
+        "article.andes.p2",
+        "article.andes.p4"
+      ],
+      "activity": "article.andes.activity"
+    },
+    {
+      "id": "mission",
+      "category": "andino",
+      "symbol": "✦",
+      "sources": [],
+      "showCard": false,
+      "paragraphs": [
+        "article.mission.p1",
+        "article.mission.p2",
+        "article.mission.p3"
+      ]
+    },
+    {
+      "id": "sources",
+      "category": "andino",
+      "symbol": "✦",
+      "sources": [
+        "solar",
+        "universe",
+        "sun",
+        "moon",
+        "earth",
+        "reniec",
+        "minedu",
+        "mineduQu"
+      ],
+      "showCard": false,
+      "paragraphs": [
+        "article.sources.p1",
+        "article.sources.p2",
+        "article.sources.p3"
+      ]
+    },
+    {
+      "id": "sun",
+      "category": "solar",
+      "symbol": "☼",
+      "sources": [
+        "sun"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.sun.p1",
+        "article.sun.p2",
+        "article.sun.p3",
+        "article.sun.p4"
+      ],
+      "activity": "article.sun.activity"
+    },
+    {
+      "id": "moon",
+      "category": "solar",
+      "symbol": "☾",
+      "sources": [
+        "moon"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.moon.p1",
+        "article.moon.p2",
+        "article.moon.p3",
+        "article.moon.p4"
+      ],
+      "activity": "article.moon.activity"
+    },
+    {
+      "id": "earth",
+      "category": "solar",
+      "symbol": "⊕",
+      "sources": [
+        "earth"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.earth.p1",
+        "article.earth.p2",
+        "article.earth.p3",
+        "article.earth.p4",
+        "article.earth.p5"
+      ],
+      "activity": "article.earth.activity"
+    },
+    {
+      "id": "observe",
+      "category": "learning",
+      "symbol": "⌖",
+      "sources": [
+        "universe"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.observe.p1",
+        "article.observe.p2",
+        "article.observe.p3",
+        "article.observe.p4",
+        "article.observe.p5"
+      ],
+      "activity": "article.observe.activity"
+    },
+    {
+      "id": "glossary",
+      "category": "astronomy",
+      "symbol": "✦",
+      "sources": [
+        "solar",
+        "universe"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.glossary.p1",
+        "article.glossary.p2"
+      ],
+      "activity": "article.glossary.activity"
+    },
+    {
+      "id": "classroom",
+      "category": "learning",
+      "symbol": "▧",
+      "sources": [
+        "moon"
+      ],
+      "showCard": true,
+      "paragraphs": [
+        "article.classroom.p1",
+        "article.classroom.p2",
+        "article.classroom.p3",
+        "article.classroom.p4",
+        "article.classroom.p5"
+      ],
+      "activity": "article.classroom.activity"
+    }
+  ],
+  "sources": {
+    "solar": {
+      "url": "https://science.nasa.gov/solar-system/",
+      "label": "NASA · Solar system",
+      "labelKey": "source.solar"
+    },
+    "universe": {
+      "url": "https://science.nasa.gov/universe/",
+      "label": "NASA · Universe",
+      "labelKey": "source.universe"
+    },
+    "sun": {
+      "url": "https://science.nasa.gov/sun/facts/",
+      "label": "NASA · Sun facts",
+      "labelKey": "source.sun"
+    },
+    "moon": {
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "label": "NASA · Moon phases",
+      "labelKey": "source.moon"
+    },
+    "earth": {
+      "url": "https://science.nasa.gov/earth/facts/",
+      "label": "NASA · Earth facts",
+      "labelKey": "source.earth"
+    },
+    "reniec": {
+      "url": "https://www.gob.pe/institucion/reniec/noticias/1422934-reniec-revela-nombres-quechuas-y-aimaras-lenguas-nativas-habladas-en-la-sierra-sur-del-peru",
+      "label": "Reniec · Quechua / Aimara",
+      "labelKey": "source.reniec"
+    },
+    "minedu": {
+      "url": "https://formacionenservicio.minedu.gob.pe/sifods/centro-recurso/2022/Material-educativo/Libro/vocabulario-pedagogico-aimara.pdf",
+      "label": "Minedu · Aimara",
+      "labelKey": "source.minedu"
+    },
+    "mineduQu": {
+      "url": "https://www.gob.pe/institucion/minedu/informes-publicaciones/4548552-biblioteca-quechua-sureno",
+      "label": "Minedu · Biblioteca de quechua sureño",
+      "labelKey": "source.mineduQu"
+    }
+  },
+  "glossary": [
+    "star",
+    "planet",
+    "orbit",
+    "gravity",
+    "satellite",
+    "galaxy",
+    "constellation",
+    "lightyear",
+    "nebula",
+    "atmosphere"
+  ]
+}

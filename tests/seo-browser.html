@@ -1,0 +1,41 @@
+<!doctype html><meta charset="utf-8"><title>QAS navigation and static content checks</title>
+<pre id="results">WAITING</pre><iframe id="page" style="width:390px;height:800px"></iframe><iframe id="static" sandbox="allow-same-origin" style="width:390px;height:800px"></iframe>
+<script>
+(async()=>{
+ const results=document.getElementById('results'),frame=document.getElementById('page'),staticFrame=document.getElementById('static');
+ const checks=[];
+ const check=(ok,name)=>{if(!ok)throw Error(name);checks.push(name)};
+ const load=(frame,url)=>new Promise(resolve=>{frame.onload=resolve;frame.src=url});
+ try{
+  await load(frame,'../es/index.html');
+  check(frame.contentDocument.documentElement.lang==='es','Spanish URL sets language');
+  frame.contentWindow.localStorage.setItem('qas-language','en');
+  await load(frame,'../qu/index.html');
+  check(frame.contentDocument.documentElement.lang==='qu','URL overrides stored preference');
+  const next=new Promise(resolve=>frame.onload=resolve);
+  const select=frame.contentDocument.getElementById('language');select.value='ay';select.dispatchEvent(new frame.contentWindow.Event('change'));
+  await next;
+  check(frame.contentWindow.location.pathname.endsWith('/ay/index.html'),'Language selector navigates to a real URL');
+  check(frame.contentDocument.documentElement.lang==='ay','Aimara page renders after navigation');
+  frame.contentDocument.querySelector('[data-article="moon"]').click();
+  check(frame.contentDocument.querySelector('dialog').open,'Link can open enhanced modal');
+  const articleURL=frame.contentDocument.querySelector('#article-body > a').href;
+  await load(frame,articleURL);
+  check(frame.contentWindow.location.pathname.endsWith('/ay/phaxsi.html'),'Full article has a shareable address');
+  check(frame.contentDocument.querySelector('.reader-article p').textContent.length>30,'Full article content is visible');
+  for(const lang of ['es','en','qu','ay']){
+   await load(staticFrame,'../'+lang+'/index.html');
+   let d=staticFrame.contentDocument;
+   check(d.querySelectorAll('.card a[href]').length===9,'No-JS links: '+lang);
+   check(d.documentElement.scrollWidth<=390,'No-JS mobile width: '+lang);
+   const url=d.querySelector('[data-article="moon"]').href;
+   await load(staticFrame,url);d=staticFrame.contentDocument;
+   check(d.documentElement.lang===lang,'No-JS article language: '+lang);
+   check(d.querySelectorAll('.reader-article p').length>=5,'No-JS article paragraphs: '+lang);
+   check(d.querySelectorAll('a[hreflang]').length===4,'No-JS language navigation: '+lang);
+   check(d.documentElement.scrollWidth<=390,'Article mobile width: '+lang);
+  }
+  results.textContent='PASS: '+checks.length+' checks\n'+checks.join('\n');
+ }catch(error){results.textContent='FAIL: '+error.stack+'\n'+checks.join('\n')}
+})();
+</script>

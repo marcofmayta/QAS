@@ -1,0 +1,111 @@
+<!doctype html><meta charset="utf-8"><title>QAS browser checks</title>
+<pre id="results">WAITING</pre>
+<iframe id="page" src="../index.html" style="width:390px;height:840px"></iframe>
+<script>
+document.getElementById('page').onload=async function(){
+  const results=document.getElementById('results');
+  const w=this.contentWindow,d=w.document,checks=[];
+  function check(ok,name){if(!ok)throw Error(name);checks.push(name)}
+  // Exercise rendering in place; seo-browser.html checks real language navigation.
+  function select(value){w.setLanguage(value)}
+  try{
+    select('es');
+    check(d.querySelectorAll('.card').length===9,'Nine topics rendered');
+    check(d.documentElement.scrollWidth<=390,'No horizontal overflow at 390px');
+    d.querySelector('[data-filter="solar"]').click();
+    check(d.querySelectorAll('.card:not([hidden])').length===4,'Solar filter');
+    select('en');
+    check(d.querySelector('h1').textContent==='One shared sky.Many voices.','English headings');
+    check(d.querySelectorAll('.card:not([hidden])').length===4,'Filter survives language change');
+    d.querySelector('[data-article="moon"]').click();
+    check(d.querySelector('dialog').open,'Article opens');
+    check(d.querySelector('#article-title').textContent==='The Moon and its phases','English article');
+    check(d.querySelector('#article-body').textContent.includes('29 and a half'),'Moon content present');
+    select('es');
+    check(d.querySelector('#article-title').textContent==='La Luna y sus fases','Open article updates language');
+    d.querySelector('.close').click();
+    check(!d.querySelector('dialog').open,'Article closes');
+    let downloaded,blob;
+    w.URL.createObjectURL=value=>{blob=value;return 'blob:test'};
+    w.URL.revokeObjectURL=()=>{};
+    const originalClick=w.HTMLAnchorElement.prototype.click;
+    w.HTMLAnchorElement.prototype.click=function(){if(this.hasAttribute('download'))downloaded=this.download;else originalClick.call(this)};
+    for(const language of ['es','en','qu','ay']){
+      select(language);
+      const messages=w.QAS_CONTENT.locales[language].messages;
+      check(d.documentElement.lang===language,'Document language: '+language);
+      check(d.querySelector('nav a').textContent===messages['ui.home'],'Navigation translated: '+language);
+      check(d.querySelector('.motion-label').textContent===messages['ui.pauseMotion'] || d.querySelector('.motion-label').textContent===messages['ui.resumeMotion'],'Motion control translated: '+language);
+      check(d.querySelector('[data-i18n="ui.heroTitle"]').lang===language,'No heading fallback: '+language);
+      for(const width of [320,390,768,1280]){
+        this.style.width=width+'px';
+        check(d.documentElement.scrollWidth<=width,'No overflow: '+language+' at '+width);
+      }
+      this.style.width='390px';
+      if(['qu','ay'].includes(language)){
+        check(!d.querySelector('#language-notice').hidden,'Draft note visible: '+language);
+        check(d.querySelector('#language-notice').textContent===messages['ui.translationDraft'],'Draft note translated: '+language);
+      }
+      for(const button of d.querySelectorAll('.card a[data-article]')){
+        button.click();
+        check(d.querySelector('#article-title').textContent===messages['article.'+button.dataset.article+'.title'],'Article title: '+language+'/'+button.dataset.article);
+        check(Array.from(d.querySelectorAll('#article-body p, #article-body a')).every(el=>el.lang===language),'Article and sources have no fallback: '+language+'/'+button.dataset.article);
+        d.querySelector('.close').click();
+      }
+      d.querySelector('[data-article="sources"]').click();
+      check(d.querySelector('#article-body .source a').textContent===messages['source.solar'],'Source label translated: '+language);
+      d.querySelector('.close').click();
+      d.querySelector('#download').click();
+      check(downloaded==='QAS-guia-'+language+'.txt','Download filename: '+language);
+      check((await blob.text()).includes(messages['ui.logTitle']),'Download translated: '+language);
+    }
+    const quTitle=w.QAS_CONTENT.locales.qu.messages['ui.heroTitle'];
+    w.QAS_CONTENT.locales.qu.messages['ui.heroTitle']=null;
+    select('qu');
+    check(d.querySelector('[data-i18n="ui.heroTitle"]').lang==='es','Missing translation falls back to Spanish');
+    check(d.querySelector('#language-notice').textContent===w.QAS_CONTENT.locales.qu.messages['ui.pendingTranslation'],'Partial language gets pending notice');
+    w.QAS_CONTENT.locales.qu.messages['ui.heroTitle']=quTitle;
+    const ayMessages=w.QAS_CONTENT.locales.ay.messages;
+    w.QAS_CONTENT.locales.ay.messages=Object.fromEntries(Object.keys(ayMessages).map(key=>[key,null]));
+    select('ay');
+    d.querySelector('#download').click();
+    check(downloaded==='QAS-guia-es.txt','Fallback download filename is Spanish');
+    check((await blob.text()).includes('Registro de observación'),'Download contains observation log');
+    w.QAS_CONTENT.locales.ay.messages=ayMessages;
+    select('en');
+    d.querySelector('#download').click();
+    check(downloaded==='QAS-guia-en.txt','English download filename');
+    check((await blob.text()).includes('Observation log'),'English download text');
+    d.querySelector('#show-all').click();
+    check(d.querySelectorAll('.card:not([hidden])').length===9,'All topics restored');
+    d.querySelector('[data-article="glossary"]').click();
+    check(d.querySelectorAll('.glossary dt').length===10,'Ten glossary entries');
+    d.querySelector('.close').click();
+    for(const button of d.querySelectorAll('.card a[data-article]')){
+      button.click();
+      check(d.querySelector('#article-body').textContent.length>250,'Content loaded: '+button.dataset.article);
+      d.querySelector('.close').click();
+    }
+    select('es');
+    const motionButton=d.getElementById('motion-toggle');
+    if(w.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      check(motionButton.hidden,'Reduced-motion preference hides redundant control');
+      check(w.getComputedStyle(d.querySelector('.orbit-track')).animationName==='none','Reduced-motion preference disables orbits');
+      check(w.getComputedStyle(d.documentElement).scrollBehavior==='auto','Reduced-motion preference disables smooth scroll');
+      d.querySelector('[data-article="moon"]').click();
+      check(d.getAnimations().every(animation=>animation.playState!=='running'),'Reduced-motion mode has no running transitions');
+      d.querySelector('.close').click();
+    }else{
+      check(!motionButton.hidden,'Motion control is available');
+      motionButton.click();
+      check(d.documentElement.classList.contains('motion-paused'),'Pause applies globally');
+      check(motionButton.getAttribute('aria-pressed')==='true','Pause state is accessible');
+      check(w.getComputedStyle(d.querySelector('.orbit-track')).animationPlayState==='paused','Pause stops ambient orbits');
+      check(d.getAnimations().every(animation=>animation.playState!=='running'),'Pause cancels transient animations: '+d.getAnimations().filter(a=>a.playState==='running').map(a=>a.constructor.name+'/'+(a.animationName||a.transitionProperty||'WAAPI')+'/'+a.effect?.target?.className).join(', '));
+      motionButton.click();
+      check(!d.documentElement.classList.contains('motion-paused'),'Animations can resume');
+    }
+    results.textContent='PASS: '+checks.length+' checks\n'+checks.join('\n');
+  }catch(error){results.textContent='FAIL: '+error.stack+'\n'+checks.join('\n')}
+};
+</script>
