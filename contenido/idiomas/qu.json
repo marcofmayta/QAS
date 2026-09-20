@@ -159,7 +159,7 @@
     "article.classroom.title": "Yachaywasipaq huk ruray",
     "article.classroom.p1": "Qallariq tapuy: ¿imaraykutaq Killapa qhawasqanchik k'anchasqa t'aqan tikrakun? Kay rurayqa huk rikuchina modelota hap'in. Huk modeloqa imapa wakin kayninkunata rikuchin, mana llapan ñut'u kayninkunatachu.",
     "article.classroom.p2": "Hap'inakuna: huk apaykachana k'anchana, llamp'u llimp'iyuq rump'u, k'anchayta pisiyachina kiti ima. K'anchanaqa Intita riqsichin. Rump'uqa Killata riqsichin. Qhawaq runaqa kay Pachamanta qhawariyta riqsichin.",
-    "article.classroom.p3": "K'anchanata mana kuyuchiychu. Huk runa rump'uta qhawaqpa muyuriqninpi allillamanta kuyuchichun. Rump'uta umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. K'anchanawan ñawikunaman ama k'anchaychu.",
+    "article.classroom.p3": "K'anchanata ama kuyuchiychu. Huk runa rump'uta qhawaqpa muyuriqninpi allillamanta kuyuchichun. Rump'uta umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. K'anchanawan ñawikunaman ama k'anchaychu.",
     "article.classroom.p4": "Rump'upa ima t'aqan k'anchayta chaskisqanta, ima k'anchasqa t'aqanta qhawayta atisqaykitapas qhaway. Kimsa maypi kasqanta siq'iy. K'anchasqa t'aqawan rikuna t'aqapa hukniray kayninmanta rimanakuy.",
     "article.classroom.p5": "Kay modeloqa mana chiqaq karu kaykunatachu nitaq sayaykunatachu riqsichin. Kikinmantaqa mana eclipse nisqa wañuykunapa p'unchawninkunatapas sut'ichanchu. K'anchasqa rump'uta qhawarisqanchik imayna tikrakusqanta rikuchinanpaqmi.",
     "article.classroom.summary": "Mana sasa hap'inakunawan Killapa rikhuriyninpa tikraykunata rikuchiy.",
@@ -194,10 +194,10 @@
     "ui.articlePage": "Qillqapa p'anqanta kichay",
     "ui.shareLinkedIn": "LinkedIn nisqapi rakiy",
     "ui.copyPost": "Tukuy qillqasqata copiay",
-    "ui.postCopied": "Qillqasqa copiasqa?a. LinkedIn nisqapi kaskachiy.",
+    "ui.postCopied": "Qillqasqa copiasqaña. LinkedIn nisqapi k'askachiy.",
     "ui.copyManually": "Qillqasqata akllaspa makiykiwan copiay.",
-    "ui.shareHelp": "Qillqasqata copiaspa LinkedIn nisqapi kaskachiy. 3.000 sanampakunamanta aswan kaptin, achka qillqasqaman rakiy.",
+    "ui.shareHelp": "Qillqasqata copiaspa LinkedIn nisqapi k'askachiy. 3.000 sanampakunamanta aswan kaptin, achka qillqasqaman rakiy.",
     "ui.shareText": "Rakinapaq qillqasqa",
-    "ui.shareImage": "Qillqasqata siqita hina uraykachiy"
+    "ui.shareImage": "Qillqasqata rikch'ay hina uraykachiy"
   }
 }

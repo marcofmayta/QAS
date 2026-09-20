@@ -200,7 +200,7 @@ Qallariq tapuy: ¿imaraykutaq Killapa qhawasqanchik k'anchasqa t'aqan tikrakun? 
 
 Hap'inakuna: huk apaykachana k'anchana, llamp'u llimp'iyuq rump'u, k'anchayta pisiyachina kiti ima. K'anchanaqa Intita riqsichin. Rump'uqa Killata riqsichin. Qhawaq runaqa kay Pachamanta qhawariyta riqsichin.
 
-K'anchanata mana kuyuchiychu. Huk runa rump'uta qhawaqpa muyuriqninpi allillamanta kuyuchichun. Rump'uta umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. K'anchanawan ñawikunaman ama k'anchaychu.
+K'anchanata ama kuyuchiychu. Huk runa rump'uta qhawaqpa muyuriqninpi allillamanta kuyuchichun. Rump'uta umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. K'anchanawan ñawikunaman ama k'anchaychu.
 
 Rump'upa ima t'aqan k'anchayta chaskisqanta, ima k'anchasqa t'aqanta qhawayta atisqaykitapas qhaway. Kimsa maypi kasqanta siq'iy. K'anchasqa t'aqawan rikuna t'aqapa hukniray kayninmanta rimanakuy.
 

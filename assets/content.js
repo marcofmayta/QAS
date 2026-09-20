@@ -803,7 +803,7 @@ window.QAS_CONTENT = {
         "article.classroom.title": "Yachaywasipaq huk ruray",
         "article.classroom.p1": "Qallariq tapuy: ¿imaraykutaq Killapa qhawasqanchik k'anchasqa t'aqan tikrakun? Kay rurayqa huk rikuchina modelota hap'in. Huk modeloqa imapa wakin kayninkunata rikuchin, mana llapan ñut'u kayninkunatachu.",
         "article.classroom.p2": "Hap'inakuna: huk apaykachana k'anchana, llamp'u llimp'iyuq rump'u, k'anchayta pisiyachina kiti ima. K'anchanaqa Intita riqsichin. Rump'uqa Killata riqsichin. Qhawaq runaqa kay Pachamanta qhawariyta riqsichin.",
-        "article.classroom.p3": "K'anchanata mana kuyuchiychu. Huk runa rump'uta qhawaqpa muyuriqninpi allillamanta kuyuchichun. Rump'uta umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. K'anchanawan ñawikunaman ama k'anchaychu.",
+        "article.classroom.p3": "K'anchanata ama kuyuchiychu. Huk runa rump'uta qhawaqpa muyuriqninpi allillamanta kuyuchichun. Rump'uta umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. K'anchanawan ñawikunaman ama k'anchaychu.",
         "article.classroom.p4": "Rump'upa ima t'aqan k'anchayta chaskisqanta, ima k'anchasqa t'aqanta qhawayta atisqaykitapas qhaway. Kimsa maypi kasqanta siq'iy. K'anchasqa t'aqawan rikuna t'aqapa hukniray kayninmanta rimanakuy.",
         "article.classroom.p5": "Kay modeloqa mana chiqaq karu kaykunatachu nitaq sayaykunatachu riqsichin. Kikinmantaqa mana eclipse nisqa wañuykunapa p'unchawninkunatapas sut'ichanchu. K'anchasqa rump'uta qhawarisqanchik imayna tikrakusqanta rikuchinanpaqmi.",
         "article.classroom.summary": "Mana sasa hap'inakunawan Killapa rikhuriyninpa tikraykunata rikuchiy.",
@@ -838,11 +838,11 @@ window.QAS_CONTENT = {
         "ui.articlePage": "Qillqapa p'anqanta kichay",
         "ui.shareLinkedIn": "LinkedIn nisqapi rakiy",
         "ui.copyPost": "Tukuy qillqasqata copiay",
-        "ui.postCopied": "Qillqasqa copiasqa?a. LinkedIn nisqapi kaskachiy.",
+        "ui.postCopied": "Qillqasqa copiasqaña. LinkedIn nisqapi k'askachiy.",
         "ui.copyManually": "Qillqasqata akllaspa makiykiwan copiay.",
-        "ui.shareHelp": "Qillqasqata copiaspa LinkedIn nisqapi kaskachiy. 3.000 sanampakunamanta aswan kaptin, achka qillqasqaman rakiy.",
+        "ui.shareHelp": "Qillqasqata copiaspa LinkedIn nisqapi k'askachiy. 3.000 sanampakunamanta aswan kaptin, achka qillqasqaman rakiy.",
         "ui.shareText": "Rakinapaq qillqasqa",
-        "ui.shareImage": "Qillqasqata siqita hina uraykachiy"
+        "ui.shareImage": "Qillqasqata rikch'ay hina uraykachiy"
       }
     },
     "ay": {
@@ -866,7 +866,7 @@ window.QAS_CONTENT = {
         "ui.start": "Uñt'aña qalltañäni",
         "ui.mission": "QAS uñt'ama",
         "ui.languages": "Pusi arutaki mä wakichawi",
-        "ui.origin": "Puno, Perú suyatpacha",
+        "ui.origin": "Puno, Perú suyutpacha",
         "ui.everyone": "Taqi marani jaqinakataki",
         "ui.place": "Amuyt'ayirixa: Andes suyuna alaxpachapa",
         "ui.photoNote": "Qulluna uñacht'ayiri jamuqapa · Wara waranakana siqipa",
@@ -875,7 +875,7 @@ window.QAS_CONTENT = {
         "ui.sunWord": "Willka · Quechua / Aimara",
         "ui.moonWord": "Phaxsi · Quechua / Aimara",
         "ui.starWord": "Wara wara · Quechua / Aimara",
-        "ui.curiosity": "YATIÑA MUNAÑAXA JANIWA QURPANI KITI",
+        "ui.curiosity": "YATIÑA MUNAÑAXA JANIWA QURPANIKITI",
         "ui.exploreTitle": "Uñt'añataki mä alaxpacha",
         "ui.exploreDescription": "Mä yatichawi ajllima. Mä qhanañchawi ullama, ukatxa mä lurawi lurama.",
         "ui.viewAll": "Taqi yatichawinaka uñjaña",
@@ -1039,13 +1039,13 @@ window.QAS_CONTENT = {
         "ui.volunteerCode": "Computadorataki kamachi qillqaña",
         "ui.volunteerMore": "Yaqha tuqinakampi",
         "ui.articlePage": "Qillqatana laphipa jist'arama",
-        "ui.shareLinkedIn": "LinkedIn tuqina chura?a",
-        "ui.copyPost": "Taqpacha qillqata copia?a",
-        "ui.postCopied": "Qillqata copiatawa. LinkedIn tuqiru lipiya?a.",
-        "ui.copyManually": "Qillqata ajllma ukat amparampi copiama.",
+        "ui.shareLinkedIn": "LinkedIn tuqina churaña",
+        "ui.copyPost": "Taqpacha qillqata copiaña",
+        "ui.postCopied": "Qillqata copiatawa. LinkedIn tuqiru lipiyama.",
+        "ui.copyManually": "Qillqata ajllima ukat amparampi copiama.",
         "ui.shareHelp": "Qillqata copiama ukat LinkedIn tuqiru lipiyama. 3.000 chimpunakatsa jilakipanxa, walja qillqatanakaru jaljama.",
-        "ui.shareText": "Chura?ataki qillqata",
-        "ui.shareImage": "Qillqata jamuqjama apaqa?a"
+        "ui.shareText": "Churañataki qillqata",
+        "ui.shareImage": "Qillqata jamuqjama apaqaña"
       }
     }
   }

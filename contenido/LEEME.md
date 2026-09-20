@@ -61,6 +61,8 @@ Esto actualiza `assets/content.js`, la tabla, los cuatro documentos de lectura y
 
 ## Cobertura y revisión
 
+Consulta la [revisión editorial de quechua y aimara](REVISION-LINGUISTICA.md) para ver las correcciones aplicadas y las dudas de significado pendientes. `revision-qu-ay.csv` contiene las 380 unidades con el español de referencia para revisión local; no se importa directamente con el generador.
+
 La página usa español cuando falta una traducción y muestra un aviso. Cada fragmento mantiene la etiqueta de idioma correspondiente para lectores de pantalla. No aparecen identificadores técnicos ni espacios vacíos. Una descarga completamente en español se identifica como `QAS-guia-es.txt`, aunque se haya seleccionado una lengua pendiente.
 
 Los cuatro idiomas tienen todas las unidades traducidas. Quechua y aimara requieren revisión lingüística y adaptación a la comunidad destinataria. La cobertura completa indica que no faltan textos; no equivale a una validación de la gramática o la terminología.

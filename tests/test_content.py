@@ -2,6 +2,7 @@ import copy
 import csv
 import importlib.util
 import json
+import re
 from pathlib import Path
 import tempfile
 import unittest
@@ -13,6 +14,12 @@ spec.loader.exec_module(builder)
 
 
 class ContentTests(unittest.TestCase):
+    def test_native_text_has_no_damaged_characters_inside_words(self):
+        for lang in ('qu', 'ay'):
+            for key, value in self.locales[lang]['messages'].items():
+                self.assertNotIn('\ufffd', value, f'{lang}/{key}')
+                self.assertIsNone(re.search(r'\w\?\w', value), f'{lang}/{key}: {value}')
+
     def setUp(self):
         self.catalog, self.locales = builder.load()
 

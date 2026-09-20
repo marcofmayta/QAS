@@ -19,7 +19,7 @@
     "ui.start": "Uñt'aña qalltañäni",
     "ui.mission": "QAS uñt'ama",
     "ui.languages": "Pusi arutaki mä wakichawi",
-    "ui.origin": "Puno, Perú suyatpacha",
+    "ui.origin": "Puno, Perú suyutpacha",
     "ui.everyone": "Taqi marani jaqinakataki",
     "ui.place": "Amuyt'ayirixa: Andes suyuna alaxpachapa",
     "ui.photoNote": "Qulluna uñacht'ayiri jamuqapa · Wara waranakana siqipa",
@@ -28,7 +28,7 @@
     "ui.sunWord": "Willka · Quechua / Aimara",
     "ui.moonWord": "Phaxsi · Quechua / Aimara",
     "ui.starWord": "Wara wara · Quechua / Aimara",
-    "ui.curiosity": "YATIÑA MUNAÑAXA JANIWA QURPANI KITI",
+    "ui.curiosity": "YATIÑA MUNAÑAXA JANIWA QURPANIKITI",
     "ui.exploreTitle": "Uñt'añataki mä alaxpacha",
     "ui.exploreDescription": "Mä yatichawi ajllima. Mä qhanañchawi ullama, ukatxa mä lurawi lurama.",
     "ui.viewAll": "Taqi yatichawinaka uñjaña",
@@ -192,12 +192,12 @@
     "ui.volunteerCode": "Computadorataki kamachi qillqaña",
     "ui.volunteerMore": "Yaqha tuqinakampi",
     "ui.articlePage": "Qillqatana laphipa jist'arama",
-    "ui.shareLinkedIn": "LinkedIn tuqina chura?a",
-    "ui.copyPost": "Taqpacha qillqata copia?a",
-    "ui.postCopied": "Qillqata copiatawa. LinkedIn tuqiru lipiya?a.",
-    "ui.copyManually": "Qillqata ajllma ukat amparampi copiama.",
+    "ui.shareLinkedIn": "LinkedIn tuqina churaña",
+    "ui.copyPost": "Taqpacha qillqata copiaña",
+    "ui.postCopied": "Qillqata copiatawa. LinkedIn tuqiru lipiyama.",
+    "ui.copyManually": "Qillqata ajllima ukat amparampi copiama.",
     "ui.shareHelp": "Qillqata copiama ukat LinkedIn tuqiru lipiyama. 3.000 chimpunakatsa jilakipanxa, walja qillqatanakaru jaljama.",
-    "ui.shareText": "Chura?ataki qillqata",
-    "ui.shareImage": "Qillqata jamuqjama apaqa?a"
+    "ui.shareText": "Churañataki qillqata",
+    "ui.shareImage": "Qillqata jamuqjama apaqaña"
   }
 }
