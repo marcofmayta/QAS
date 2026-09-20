@@ -182,3 +182,10 @@ ui.volunteerMarketing,Marketing,Marketing,Riqsichiy,Uñt'ayaña
 ui.volunteerCode,Programación,Programming,Computadorapaq kamachiy qillqay,Computadorataki kamachi qillqaña
 ui.volunteerMore,Y otras áreas,And other skills,Wak t'aqakunapas,Yaqha tuqinakampi
 ui.articlePage,Abrir página del artículo,Open article page,Qillqapa p'anqanta kichay,Qillqatana laphipa jist'arama
+ui.shareLinkedIn,Compartir en LinkedIn,Share on LinkedIn,LinkedIn nisqapi rakiy,LinkedIn tuqina chura?a
+ui.copyPost,Copiar publicaci?n completa,Copy full post,Tukuy qillqasqata copiay,Taqpacha qillqata copia?a
+ui.postCopied,Texto copiado. P?galo en LinkedIn.,Text copied. Paste it into LinkedIn.,Qillqasqa copiasqa?a. LinkedIn nisqapi kaskachiy.,Qillqata copiatawa. LinkedIn tuqiru lipiya?a.
+ui.copyManually,Selecciona y copia el texto manualmente.,Select and copy the text manually.,Qillqasqata akllaspa makiykiwan copiay.,Qillqata ajllma ukat amparampi copiama.
+ui.shareHelp,"Copia el texto y p?galo en una publicaci?n de LinkedIn. Si supera 3.000 caracteres, div?delo en varias publicaciones.","Copy the text and paste it into a LinkedIn post. If it exceeds 3,000 characters, split it into several posts.","Qillqasqata copiaspa LinkedIn nisqapi kaskachiy. 3.000 sanampakunamanta aswan kaptin, achka qillqasqaman rakiy.","Qillqata copiama ukat LinkedIn tuqiru lipiyama. 3.000 chimpunakatsa jilakipanxa, walja qillqatanakaru jaljama."
+ui.shareText,Texto para compartir,Text to share,Rakinapaq qillqasqa,Chura?ataki qillqata
+ui.shareImage,Descargar art?culo como imagen,Download article as image,Qillqasqata siqita hina uraykachiy,Qillqata jamuqjama apaqa?a

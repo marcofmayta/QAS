@@ -116,6 +116,13 @@ function renderArticle(id) {
     });
     body.append(list);
   }
+  const parts = article.paragraphs.map(key => translation(key).text);
+  if (id === 'glossary') catalog.glossary.forEach(term => parts.push(translation(`glossary.${term}.term`).text + ': ' + translation(`glossary.${term}.definition`).text));
+  if (article.activity) parts.push(translation('ui.activity').text, translation(article.activity).text);
+  article.sources.forEach(key => parts.push(translation(catalog.sources[key].labelKey).text + ': ' + catalog.sources[key].url));
+  const messages = Object.fromEntries(Object.keys(locales.es.messages).filter(key => key.startsWith('ui.')).map(key => [key, translation(key).text]));
+  const url = new URL(fullPage.getAttribute('href'), location.href);
+  if (url.protocol === 'https:' || url.protocol === 'http:') body.append(window.QASShare.create(translation(titleKey(article)).text, parts.join('\n\n'), url.href, messages, locales[language].meta.needsReview ? translation('ui.translationDraft').text : ''));
 }
 
 function setLanguage(value) {

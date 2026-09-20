@@ -431,7 +431,14 @@ window.QAS_CONTENT = {
         "ui.volunteerMarketing": "Marketing",
         "ui.volunteerCode": "Programación",
         "ui.volunteerMore": "Y otras áreas",
-        "ui.articlePage": "Abrir página del artículo"
+        "ui.articlePage": "Abrir página del artículo",
+        "ui.shareLinkedIn": "Compartir en LinkedIn",
+        "ui.copyPost": "Copiar publicaci?n completa",
+        "ui.postCopied": "Texto copiado. P?galo en LinkedIn.",
+        "ui.copyManually": "Selecciona y copia el texto manualmente.",
+        "ui.shareHelp": "Copia el texto y p?galo en una publicaci?n de LinkedIn. Si supera 3.000 caracteres, div?delo en varias publicaciones.",
+        "ui.shareText": "Texto para compartir",
+        "ui.shareImage": "Descargar art?culo como imagen"
       }
     },
     "en": {
@@ -625,7 +632,14 @@ window.QAS_CONTENT = {
         "ui.volunteerMarketing": "Marketing",
         "ui.volunteerCode": "Programming",
         "ui.volunteerMore": "And other skills",
-        "ui.articlePage": "Open article page"
+        "ui.articlePage": "Open article page",
+        "ui.shareLinkedIn": "Share on LinkedIn",
+        "ui.copyPost": "Copy full post",
+        "ui.postCopied": "Text copied. Paste it into LinkedIn.",
+        "ui.copyManually": "Select and copy the text manually.",
+        "ui.shareHelp": "Copy the text and paste it into a LinkedIn post. If it exceeds 3,000 characters, split it into several posts.",
+        "ui.shareText": "Text to share",
+        "ui.shareImage": "Download article as image"
       }
     },
     "qu": {
@@ -821,7 +835,14 @@ window.QAS_CONTENT = {
         "ui.volunteerMarketing": "Riqsichiy",
         "ui.volunteerCode": "Computadorapaq kamachiy qillqay",
         "ui.volunteerMore": "Wak t'aqakunapas",
-        "ui.articlePage": "Qillqapa p'anqanta kichay"
+        "ui.articlePage": "Qillqapa p'anqanta kichay",
+        "ui.shareLinkedIn": "LinkedIn nisqapi rakiy",
+        "ui.copyPost": "Tukuy qillqasqata copiay",
+        "ui.postCopied": "Qillqasqa copiasqa?a. LinkedIn nisqapi kaskachiy.",
+        "ui.copyManually": "Qillqasqata akllaspa makiykiwan copiay.",
+        "ui.shareHelp": "Qillqasqata copiaspa LinkedIn nisqapi kaskachiy. 3.000 sanampakunamanta aswan kaptin, achka qillqasqaman rakiy.",
+        "ui.shareText": "Rakinapaq qillqasqa",
+        "ui.shareImage": "Qillqasqata siqita hina uraykachiy"
       }
     },
     "ay": {
@@ -1017,7 +1038,14 @@ window.QAS_CONTENT = {
         "ui.volunteerMarketing": "Uñt'ayaña",
         "ui.volunteerCode": "Computadorataki kamachi qillqaña",
         "ui.volunteerMore": "Yaqha tuqinakampi",
-        "ui.articlePage": "Qillqatana laphipa jist'arama"
+        "ui.articlePage": "Qillqatana laphipa jist'arama",
+        "ui.shareLinkedIn": "LinkedIn tuqina chura?a",
+        "ui.copyPost": "Taqpacha qillqata copia?a",
+        "ui.postCopied": "Qillqata copiatawa. LinkedIn tuqiru lipiya?a.",
+        "ui.copyManually": "Qillqata ajllma ukat amparampi copiama.",
+        "ui.shareHelp": "Qillqata copiama ukat LinkedIn tuqiru lipiyama. 3.000 chimpunakatsa jilakipanxa, walja qillqatanakaru jaljama.",
+        "ui.shareText": "Chura?ataki qillqata",
+        "ui.shareImage": "Qillqata jamuqjama apaqa?a"
       }
     }
   }

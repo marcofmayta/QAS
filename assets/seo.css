@@ -14,3 +14,8 @@
 .reader-related { padding:10px 10px 0 }.reader-related ul { display:grid;grid-template-columns:1fr 1fr;gap:15px;padding:0;list-style:none;line-height:1.7 }
 .reader-footer { margin-inline:auto;padding-inline:28px;max-width:860px }
 @media(max-width:740px) { .reader-header{padding:17px 24px}.reader-header .language-links{width:auto;flex:1;justify-content:flex-end;gap:8px 12px}.reader-header .language-links a{flex:initial;font-size:11px}.reader-shell{padding:25px 16px 40px}.reader-article{padding:25px 22px}.reader-article p{font-size:14px}.reader-related ul{grid-template-columns:1fr}.reader-article h1{font-size:32px} }
+/* Sharing controls remain optional enhancements to the article. */
+.article-share{margin-top:32px;padding:24px;border:1px solid #d4ed9a44;border-radius:16px;background:#d4ed9a08}
+.article-share .button{margin:8px 12px 8px 0;white-space:normal}
+.article-share textarea{box-sizing:border-box;width:100%;margin-top:16px;padding:16px;background:#091721;color:#e2eaf0;border:1px solid #ffffff44;border-radius:8px;font:inherit;line-height:1.6;resize:vertical}
+.article-share details{margin-top:16px}.article-share summary{cursor:pointer;color:#d4ed9a}

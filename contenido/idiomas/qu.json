@@ -191,6 +191,13 @@
     "ui.volunteerMarketing": "Riqsichiy",
     "ui.volunteerCode": "Computadorapaq kamachiy qillqay",
     "ui.volunteerMore": "Wak t'aqakunapas",
-    "ui.articlePage": "Qillqapa p'anqanta kichay"
+    "ui.articlePage": "Qillqapa p'anqanta kichay",
+    "ui.shareLinkedIn": "LinkedIn nisqapi rakiy",
+    "ui.copyPost": "Tukuy qillqasqata copiay",
+    "ui.postCopied": "Qillqasqa copiasqa?a. LinkedIn nisqapi kaskachiy.",
+    "ui.copyManually": "Qillqasqata akllaspa makiykiwan copiay.",
+    "ui.shareHelp": "Qillqasqata copiaspa LinkedIn nisqapi kaskachiy. 3.000 sanampakunamanta aswan kaptin, achka qillqasqaman rakiy.",
+    "ui.shareText": "Rakinapaq qillqasqa",
+    "ui.shareImage": "Qillqasqata siqita hina uraykachiy"
   }
 }

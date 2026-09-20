@@ -29,7 +29,8 @@ class SeoTests(unittest.TestCase):
                     self.assertIn(seo.escape(self.locales[lang]['messages'][key],quote=False),text)
                 self.assertEqual(len([n for n in nodes if n.tag=='a' and n.attrs.get('hreflang')]),4)
                 for node in nodes:
-                    if node.tag=='script':self.assertEqual(node.attrs.get('type'),'application/ld+json')
+                    if node.tag=='script':
+                        self.assertTrue(node.attrs.get('type') in ('application/ld+json','application/json') or node.attrs.get('src')=='../assets/share.js')
 
     def test_homes_have_static_cards_and_valid_local_links(self):
         manifest=json.loads((ROOT/'site-manifest.json').read_text(encoding='utf-8'))

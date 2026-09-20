@@ -191,6 +191,13 @@
     "ui.volunteerMarketing": "Uñt'ayaña",
     "ui.volunteerCode": "Computadorataki kamachi qillqaña",
     "ui.volunteerMore": "Yaqha tuqinakampi",
-    "ui.articlePage": "Qillqatana laphipa jist'arama"
+    "ui.articlePage": "Qillqatana laphipa jist'arama",
+    "ui.shareLinkedIn": "LinkedIn tuqina chura?a",
+    "ui.copyPost": "Taqpacha qillqata copia?a",
+    "ui.postCopied": "Qillqata copiatawa. LinkedIn tuqiru lipiya?a.",
+    "ui.copyManually": "Qillqata ajllma ukat amparampi copiama.",
+    "ui.shareHelp": "Qillqata copiama ukat LinkedIn tuqiru lipiyama. 3.000 chimpunakatsa jilakipanxa, walja qillqatanakaru jaljama.",
+    "ui.shareText": "Chura?ataki qillqata",
+    "ui.shareImage": "Qillqata jamuqjama apaqa?a"
   }
 }

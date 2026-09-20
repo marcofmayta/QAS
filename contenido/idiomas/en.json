@@ -189,6 +189,13 @@
     "ui.volunteerMarketing": "Marketing",
     "ui.volunteerCode": "Programming",
     "ui.volunteerMore": "And other skills",
-    "ui.articlePage": "Open article page"
+    "ui.articlePage": "Open article page",
+    "ui.shareLinkedIn": "Share on LinkedIn",
+    "ui.copyPost": "Copy full post",
+    "ui.postCopied": "Text copied. Paste it into LinkedIn.",
+    "ui.copyManually": "Select and copy the text manually.",
+    "ui.shareHelp": "Copy the text and paste it into a LinkedIn post. If it exceeds 3,000 characters, split it into several posts.",
+    "ui.shareText": "Text to share",
+    "ui.shareImage": "Download article as image"
   }
 }

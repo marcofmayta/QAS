@@ -204,7 +204,17 @@ def render_reader(catalog,locales,lang,article,config):
         translated(locales,lang,'ui.contactTitle','a',{'href':home+'#contacto'}),
         translated(locales,lang,'ui.sources','a',{'href':relative(current,page_path(lang,'sources'))}),
         translated(locales,lang,'ui.footer','span')])
-    return '<!DOCTYPE html>\n'+Node('html',{'lang':lang},[head,Node('body',children=[header,main,footer])]).html()
+    extras=[]
+    if config.get('siteUrl'):
+        messages={key:text_for(locales,lang,key) for key in locales['es']['messages'] if key.startswith('ui.')}
+        parts=[text_for(locales,lang,key) for key in article['paragraphs']]
+        if article['id']=='glossary':
+            parts.extend(text_for(locales,lang,f'glossary.{term}.term')+': '+text_for(locales,lang,f'glossary.{term}.definition') for term in catalog['glossary'])
+        if article.get('activity'): parts.extend([messages['ui.activity'],text_for(locales,lang,article['activity'])])
+        parts.extend(text_for(locales,lang,catalog['sources'][key]['labelKey'])+': '+catalog['sources'][key]['url'] for key in article['sources'])
+        payload={'title':title,'content':'\n\n'.join(parts),'url':normalize_site_url(config['siteUrl'])+current,'messages':messages,'draft':messages['ui.translationDraft'] if locales[lang]['meta'].get('needsReview') else ''}
+        extras=[Node('script',{'type':'application/json','id':'share-data'},[json.dumps(payload,ensure_ascii=False).replace('<','\\u003c')]),Node('script',{'defer':'','src':relative(current,'assets/share.js')})]
+    return '<!DOCTYPE html>\n'+Node('html',{'lang':lang},[head,Node('body',children=[header,main,footer,*extras])]).html()
 
 def generate_site(root,catalog,locales,config,output=None):
     root=Path(root);output=Path(output or root)
