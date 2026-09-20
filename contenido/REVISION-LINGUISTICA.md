@@ -1,5 +1,19 @@
 # Revisión de quechua y aimara
 
+## Segunda revisión: lenguaje cercano y préstamos
+
+Por solicitud del autor, se simplificó el registro y se incorporaron términos del castellano en la redacción quechua y aimara. Se priorizaron frases breves, instrucciones directas y nombres reconocibles de herramientas y conceptos: sistema solar, planeta, galaxia, telescopio, linterna, cuaderno, menú, diseño y programación. En el glosario, los nombres técnicos se acompañan de explicaciones en la lengua seleccionada; para órbita y gravedad también se mantiene una expresión descriptiva junto al préstamo.
+
+Esta es una **propuesta editorial de divulgación**, no una afirmación de que cada préstamo se use de igual manera en todas las comunidades. Se mantuvo la grafía castellana de algunos términos por legibilidad, según la preferencia del autor. Esto no equivale a aplicar la adaptación ortográfica formal descrita en los vocabularios pedagógicos. No se reemplazaron las voces básicas Inti, Killa, Quyllur, Willka, Phaxsi y Wara wara por castellano.
+
+Se reformularon además las cantidades de estrellas con «miles de millones», las referencias al nacimiento de estrellas en aimara y la actividad de aula con pelota y linterna. Son propuestas que todavía deben comprobarse mediante lectura y retraducción local.
+
+El detalle antes/después está en [cambios-naturalidad.json](cambios-naturalidad.json). La tabla `revision-qu-ay.csv` se actualizó sin borrar propuestas ni nombres de personas revisoras. Las observaciones de la primera revisión que siguen abajo son **históricas**: varias expresiones citadas ya se sustituyeron; las dudas conceptuales y la validación local siguen siendo pertinentes.
+
+Referencias para el criterio de préstamos: [Manual de escritura quechua sureño](https://formacionenservicio.minedu.gob.pe/sifods/centro-recurso/2022/Material-educativo/Libro/manual-escritura-quechua-sureno.pdf) y [Vocabulario pedagógico aimara](https://repositorio.minedu.gob.pe/bitstream/handle/20.500.12799/7187/Yaticha%C3%B1a%20aru%20pirwa%20Vocabulario%20pedag%C3%B3gico%20aimara.pdf?isAllowed=y&sequence=1). Ambos contemplan préstamos; no validan automáticamente las frases de QAS.
+
+## Primera revisión
+
 Se realizó una lectura editorial asistida de las 190 unidades de quechua y las 190 de aimara, comparándolas con el contenido base en español. Se revisaron interfaz, artículos, actividades, glosario, fuentes, biografía, voluntariado y opciones para compartir.
 
 **Esta revisión no es una validación lingüística por hablantes.** Los archivos conservan `status: draft`, `needsReview: true` y `reviewer: null`. Las frases sin cambios tampoco deben interpretarse como aprobadas. Las referencias documentales permiten contrastar algunos términos y reglas, pero no certifican los párrafos completos.

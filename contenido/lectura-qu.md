@@ -1,42 +1,42 @@
 # QAS · Quechua Aimara Space
 
-Hanaq pachamanta yachay, mana sasa sut'ichaykunawan ruraykunawan ima. QAS hanaq pacha yachayta Perú suyupi ayllukunapa siminkunawan tinkuchin.
+Intimanta, Killamanta, quyllurkunamantapas siminchikpi yachasun. QAS nisqapi mana sasa qillqakuna, kuska ruranapaq actividadkunapas kachkan.
 
 IA nisqapa yanapayninwan tikrasqa. Llaqtapi rimaqkunapa qhawapayninta suyanraq.
 
-## Quyllurkuna, hatun huñunkunawan
+## Quyllurkunawan galaxiakuna
 
 Quyllurkunaqa rupha gas nisqamanta hatun rump'ukunan. Ukhunkupi kallpata paqarichinku. Intinchikpas chaykunamanta hukmi. Wak quyllurkunapa k'anchaynin ñawinchikman chayamunanpaq watakuna pasan. Hanaq pachata qhawayqa ñawpa pachata qhawaypasmi.
 
-Quyllurkunaqa galaxia nisqa hatun huñukunapi huñunakunku. Ñuqanchikqa Vía Láctea sutiyuq huñupi kawsanchik. Chaypi waranqa hunu quyllurkuna kachkan. Tutayaq tutapi wakin k'anchayninta hanaq pachata chimpachiq llamp'u siq'ihina qhawayta atinchik.
+Galaxia nisqapi achka quyllurkuna huñunasqa kachkan. Ñuqanchikqa Vía Láctea sutiyuq galaxiapi kawsanchik. Chaypi miles de millones nisqa achka quyllurkuna kachkan. Tutayaq tutapi, wakin k'anchayninta hanaq pachapi huk llamp'u siq'ihina qhawayta atinchik.
 
 Nebulosa nisqakunaqa gas nisqamanta ñut'u allpamanta ima phuyukunan. Wakinkunapi quyllurkuna paqarinku. Wakinkunapitaq quyllurkuna kawsayninku tukukuptin qarqusqan imakuna kachkan. Karu qhawana telescopio nisqawan urqusqa rikch'aykunaqa ñawinchik mana sapa kuti riqsiyta atinan ñut'u kaqkunata llimp'ikunatapas rikuchin.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
 Riqsinapaq: iskay quyllur huñuta siq'iy, huk hora qhipamanta yapamanta qhaway. ¿Maypi kasqanku tikrakurqanchu? Kay Pachapa kikinpi muyuynin quyllurkunata hanaq pachapi puriqhina rikuchin.
 
 ### Astawan yachanapaq pukyukuna
 
-- [NASA · Tiqsi muyu](https://science.nasa.gov/universe/)
+- [NASA · Universo](https://science.nasa.gov/universe/)
 
-## Intiwan muyuqmasinkuna
+## Sistema solar
 
-Intiwan paypa muyuriqninpi puriqkurkuna sistema solar nisqata ruran. Intiqa huk quyllurmi. Planeta nisqa puriqkurkunaqa aswanta Intipa k'anchayninta kutichispa lliphipinku.
+Sistema solar nisqapi Intiwan muyuriqninpi puriq planetakuna, wak imakunapas kanku. Intiqa huk quyllurmi. Planetakunaqa aswanta Intipa k'anchayninta kutichispa lliphipinku.
 
-Intimanta yupaspa, pusaq planetakunaqa Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno ima. Ñawpaq tawa planetakunapa hawanqa qaqamanta. Júpiterwan Saturno hatun gas planetakunan. Uranowan Neptunotaqa rit'imanta hatun planetakunapi churanku.
+Intimanta yupaspa, pusaq planetakunaqa Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno ima. Ñawpaq tawa planetakunapa hawanqa rumimanta. Júpiterwan Saturno hatun gas planetakunan. Uranowan Neptunotaqa gigantes de hielo nispa sutinchanku.
 
 Saturnopa siwikunan mana yupay atina rit'iwan qaqa p'akikunata hap'in. Siq'ikunapi huklla sinch'i imahina rikhuriptinpas, hatun huch'uy k'itikunamanta rurasqan kanku.
 
-Killakunapas, asteroide nisqa qaqa kurkukunapas, cometa nisqa chupa kurkukunapas, Plutón hina huch'uy planetakunapas kanku. Killanchikqa mana kikin k'anchayninta paqarichinchu. Inti k'anchasqan t'aqatam qhawanchik. Rikhuriynin kay Pachapa, Killapa, Intipa kuska maypi kasqankuman hina tikrakun.
+Killakuna, asteroidekuna, cometakuna, Plutón hina planeta enano nisqakunapas kanku. Killanchikqa mana kikin k'anchayninta paqarichinchu. Inti k'anchasqan t'aqatam qhawanchik. Killa, kay Pacha, Intipas maypi kasqankuman hina, Killapa rikhuriynin tikrakun.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
 Ruray: achka tutakunapi Killata siq'iy, p'unchawta qillqay. Intita ama hayk'aqpas chiqanta qhawaychu, nitaq iskay ñawiyuq karu qhawanawan utaq telescopio nisqawan, Intipaq allin k'anchay hark'ana mana kaptin.
 
 ### Astawan yachanapaq pukyukuna
 
-- [NASA · Intiwan muyuqmasinkuna](https://science.nasa.gov/solar-system/)
+- [NASA · Sistema solar](https://science.nasa.gov/solar-system/)
 
 ## Simikuna, hanaq pachawan
 
@@ -46,7 +46,7 @@ QAS hanaq pacha yachayta yachananchikta, ñawpa simikunapaq kitita kicharinanchi
 
 Kaypi tawa simipi qillqakuna kachkan. Quechua simiman Aimara simiman tikrasqakunaqa IA nisqapa yanapayninwan rurasqa ñawpaq qillqakunaraqmi. Ayllukunapi rimaqkunapa qhawapayninta allichapayninta ima suyanraq.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
 Kuska ruranapaq: aylluykimanta huk runata tapuy, ima simikunawan hanaq pachata sutinchasqanmanta. Paypa saqiyninwan simita, ninanta, may ayllupa utaq ima rimaypa kasqantapas qillqay. Willakuykunata utaq uyarisqa waqaychasqakunata ama saqiy mana kaptin lluqsichiychu.
 
@@ -60,7 +60,7 @@ Kuska ruranapaq: aylluykimanta huk runata tapuy, ima simikunawan hanaq pachata s
 
 QAS — Quechua Aimara Space — hanaq pachata Puno, Perú suyupi ayllukunaman asuykachinapaq yachachiy llamk'aymi. Yachaqkunapaq, yawar ayllukunapaq, tukuy wiñayniyuq yachay munaqkunapaq ima rurasqa.
 
-Kaypi hanaq pacha yachaykunata riqsiyta, simikunata yachayta, karu qhawana telescopio mana kaptinpas hanaq pachata qhawarinapaq pusana qillqata uraykachiytapas atinki.
+Kaypi astronomíamanta yachayta, musuq simikunata riqsiyta atinki. Telescopio mana kaptinpas hanaq pachata qhawanapaq guíata descargayta atinki.
 
 Qillqakunata castellano, inglés, Quechua, Aimara simikunapi ñawinchayta atinki. Quechua simipi Aimara simipipas ñawpaq tikraykunaraq kanku. Llaqtapi rimaqkunawan qhawapana kachkanraq, sapa kitipa rimayninta chaninchaspa.
 
@@ -74,8 +74,8 @@ Urqupa rikch'ayninqa sut'ichinapaqllan. Mana Puno llaqtapi urqusqa rikch'ay hina
 
 ### Astawan yachanapaq pukyukuna
 
-- [NASA · Intiwan muyuqmasinkuna](https://science.nasa.gov/solar-system/)
-- [NASA · Tiqsi muyu](https://science.nasa.gov/universe/)
+- [NASA · Sistema solar](https://science.nasa.gov/solar-system/)
+- [NASA · Universo](https://science.nasa.gov/universe/)
 - [NASA · Inti](https://science.nasa.gov/sun/facts/)
 - [NASA · Killapa rikhuriyninpa tikraykuna](https://science.nasa.gov/moon/moon-phases/)
 - [NASA · Kay Pacha](https://science.nasa.gov/earth/facts/)
@@ -93,7 +93,7 @@ Intipa k'anchaynin kay Pachaman chayamunanpaq yaqa pusaq minututa unan. Chay k'a
 
 Intita ama hayk'aqpas chiqanta qhawaychu. Sapa p'unchaw inti hark'akuq lentes nisqakunaqa mana Intita qhawanapaq ñawita waqaychankuchu. Kay ruraypi llant'ukunata qhawanki, mana Intiman qhawaspa.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
 Mana manchayniyuq kitipi huk imata allpa hawapi churay. Paqarinpi ch'isimanpas llant'unta siq'iy. Pachata qillqay, hinaspa llant'ukunapa mayman churasqa kasqanta sayaynintapas tupachiy.
 
@@ -101,17 +101,17 @@ Mana manchayniyuq kitipi huk imata allpa hawapi churay. Paqarinpi ch'isimanpas l
 
 - [NASA · Inti](https://science.nasa.gov/sun/facts/)
 
-## Killa, rikhuriyninpa tikraykunawan
+## Killa: imarayku rikhuriynin tikrakun
 
-Killaqa kay Pachapa muyuriqninpi puriq satélite natural nisqan. Satélite natural nisqa kurkuqa huk planetapa muyuriqninpi purin, mana runa rurasqachu. Killa Intipa k'anchayninta kutichin.
+Killaqa kay Pachapa satélite natural nisqan. Chayqa huk planetapa muyuriqninpi puriqmi, mana runa rurasqachu. Killa Intipa k'anchayninta kutichin.
 
 Killapa kuskan Intipa k'anchayninta chaskin. Kay Pachamanta chay k'anchasqa kuskapa hukniray t'aqankunata qhawanchik. Chayraykun rikch'aynin tikrakuqhina rikhurin. Chay tikraykuna fase nisqa sutiyuq kanku.
 
 Musuq killapi k'anchasqa uyapa aswan t'aqan kay Pachapa waq chimpanta qhawan. Hunt'a killapitaq yaqa llapan chay k'anchasqa uyata qhawanchik. Chaykunapa chawpinpi wiñaq, pisiyachkaq killakuna kanku. Kay muyu yaqa 29 p'unchawta kuskantawan unan.
 
-Killapa rikhuriyninpa tikraykunaqa mana kay Pachapa llant'unraykuchu kan. Killa wañuypiqa kay Pachapa llant'un Killata tutayachiyta atin. Killaqa p'unchaypipas rikukuyta atin, rikhuriyninman maypi kasqanman hina.
+Killapa fasekunaqa mana kay Pachapa llant'unraykuchu kan. Eclipse lunar nisqapitaq kay Pachapa llant'un Killata tutayachiyta atin. Killaqa p'unchawpipas rikukunman, maypi kasqanman, fasenman hina.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
 Huk simana Killata qhaway rikukuptin. K'anchasqa t'aqanta siq'iy, p'unchawta pachatawan qillqay. Mana rikunki chayqa, chay chiqapi phuyukuna utaq wasikuna kasqanta qillqay.
 
@@ -131,9 +131,9 @@ Kay Pachapa chawpi siq'inqa kinrayasqa kachkan. Chay kinrayayrayku watantin sapa
 
 Punoqa kay Pachapa urin kuskanpi kachkan. Huk ayllupi para, q'uñi, chiri tikraykunapas maypi kasqanman, hayk'a hanaqpi kasqanman hina kanku. Llaqtapa wayra pachanmanta rimanapaq, qhawarina, chay kitipa qillqankunatapas tapukuna.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
-Huk tutayaq wasipi rump'uta, apaykachana k'anchanatawan hap'iy. Rump'u kay Pachata riqsichin, k'anchanataq Intita. Rump'uta muyuchiy, hinaspa k'anchasqa t'aqan imayna tikrakusqanta qhaway.
+Huk tutayaq cuartopi pelotata, linternatawan hap'iy. Pelotaqa kay Pachata rikuchin, linternataq Intita. Pelotata muyuchiy, k'anchasqa t'aqan imayna tikrakusqanta qhaway.
 
 ### Astawan yachanapaq pukyukuna
 
@@ -143,7 +143,7 @@ Huk tutayaq wasipi rump'uta, apaykachana k'anchanatawan hap'iy. Rump'u kay Pacha
 
 Riqsisqa, mana manchayniyuq kitita akllay. Hatun ñankunamanta, kinraykunamanta, mana hark'asqa pata muyukunamantapas karunchakuy. Wawakuna huk kuraq runawan rinanku. Q'uñi pachakunata apay, kutimunaykipaq pachata rimanakuy.
 
-Pisi phuyuyuq tutata, runa rurasqan k'anchay pisi kanan kitita maskhay. Ñawiykikuna tutayayman yachakuchunku. Mana karu qhawana telescopio nisqawanpas Killata, aswan lliphipiq quyllurkunata qhawaspa qallariyta atinki.
+Pisi phuyuyuq tutata, pisi luz artificial nisqayuq kitita maskhay. Ñawiykikuna tutayayman yachakuchunku. Telescopio mana kaptinpas Killata, aswan lliphipiq quyllurkunatapas qhawayta atinki.
 
 P'unchawta, pachata, kitita, hanaq pacha imayna kasqantapas qillqay. Qhawasqayki k'anchaykunata siq'iy. Huk imata mana riqsinki chayqa, sutita churanaykipa ñawpaqninpi imata rikusqaykita qillqay.
 
@@ -151,17 +151,17 @@ Rikuna kurkukunaqa pachaman, p'unchawman, kitiman hina tikrakunku. Kay p'anqa ma
 
 Qhawasqakunata tupachiy yachayta yanapan. Hukniray tutakunapi siq'isqaykikunata waqaychay. Mana allin hunt'asqallachu kanan. Rikusqaykita yuyarinaykipaq yanapasunki chayqa allinmi.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
-P'anqapa tukukuyninpi qhawarinapaq pusana qillqata uraykachiy. Huk qhawasqaykipa qillqanta hunt'achiy, hinaspa huk runapa qillqanwan tupachiy. ¿Imakunata kuskalla qhawarqankichik?
+P'anqapa tukukuyninpi guíata descargay. Rikusqaykita qillqay, hinaspa huk runapa qillqasqanwan tupachiy. ¿Imakunata kuskalla qhawarqankichik?
 
 ### Astawan yachanapaq pukyukuna
 
-- [NASA · Tiqsi muyu](https://science.nasa.gov/universe/)
+- [NASA · Universo](https://science.nasa.gov/universe/)
 
-## Hanaq pacha yachayta yachanapaq simikuna
+## Astronomíamanta simikuna
 
-Hanaq pacha yachayqa hanaq pachapi kurkukunata, tiqsi muyupi ima kasqankunatapas yachaqan. Kay simi pirwa QAS qillqakunapi rikhuriq simikunata sut'ichan.
+Astronomíaqa universopi kaqkunata, chaypi ima kasqantapas yachaqan. Kay glosariopi QAS qillqakunapa siminkunata sut'ichayku.
 
 Nisqakunaqa yachaypa yuyayninkunata sut'ichan. Tikraspa, ayllupi mana riqsisqa kaqlla simi kaptinqa, pisi rimaywan sut'ichayta atikun.
 
@@ -169,44 +169,44 @@ Nisqakunaqa yachaypa yuyayninkunata sut'ichan. Tikraspa, ayllupi mana riqsisqa k
 
 **Planeta**: Intiwan muyuqmasinkuna ukhupi, yaqa rump'uhina kurku Intipa muyuriqninpi puriq. Mana killachu. Muyunan kitipi kikin aysay kallpan wak kurkukunapamanta aswan atiyuqmi.
 
-**Muyuna ñan**: Huk kurku wak kurkupa muyuriqninpi aysay kallparayku purinan ñan.
+**Órbita · muyuna ñan**: Huk kurku wak kurkupa muyuriqninpi aysay kallparayku purinan ñan.
 
-**Aysay kallpa**: Masayuq kurkukuna huknin hukninta aysanakusqan. Planetakunata Intipa muyuriqninpi purichin.
+**Gravedad · aysay kallpa**: Masayuq kurkukuna huknin hukninta aysanakusqan. Planetakunata Intipa muyuriqninpi purichin.
 
-**Kikin pachapi paqarisqa muyuqmasi**: Mana runa rurasqan kurku, huk planetapa utaq aswan hatun kurkupa muyuriqninpi puriq. Killa kay Pachapa muyuriqninpi purin.
+**Satélite natural**: Mana runa rurasqan kurku, huk planetapa utaq aswan hatun kurkupa muyuriqninpi puriq. Killa kay Pachapa muyuriqninpi purin.
 
-**Quyllurkunapa hatun huñun**: Aysay kallpawan huñusqa quyllurkuna, gas, ñut'u allpa, mana rikuna materia oscura nisqa ima.
+**Galaxia**: Aysay kallpawan huñusqa quyllurkuna, gas, ñut'u allpa, mana rikuna materia oscura nisqa ima.
 
-**Quyllurkuna t'aqa**: Hanaq pachapi saywasqa kiti. Quyllurkuna chawpipi yuyaywan siq'isqa rikch'aywan tinkuchikun. Chay quyllurkunaqa huknin hukninmanta ancha karupi kayta atinku.
+**Constelación**: Hanaq pachapi saywasqa kiti. Quyllurkuna chawpipi yuyaywan siq'isqa rikch'aywan tinkuchikun. Chay quyllurkunaqa huknin hukninmanta ancha karupi kayta atinku.
 
-**Huk watapi k'anchaypa purisqan**: K'anchaypa huk watapi purisqan karu kay. Karu kayta tupunapaqmi, mana pachatachu.
+**Año luz**: K'anchaypa huk watapi purisqan karu kay. Karu kayta tupunapaqmi, mana pachatachu.
 
-**Gaswan ñut'u allpapa phuyun**: Hanaq pachapi gas nisqapa ñut'u allpapapas phuyun. Wakin chay phuyukunapi quyllurkuna paqarinku.
+**Nebulosa**: Hanaq pachapi gas nisqapa ñut'u allpapapas phuyun. Wakin chay phuyukunapi quyllurkuna paqarinku.
 
-**Gas qata**: Huk kurkuta, kay Pachata hina, muyuriqninpi qataq gas nisqa.
+**Atmósfera**: Huk kurkuta, kay Pachata hina, muyuriqninpi qataq gas nisqa.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
 Kimsa simita akllay. Sapa simita kikin rimayniykiwan sut'ichay, hinaspa huk siq'ita yapay.
 
 ### Astawan yachanapaq pukyukuna
 
-- [NASA · Intiwan muyuqmasinkuna](https://science.nasa.gov/solar-system/)
-- [NASA · Tiqsi muyu](https://science.nasa.gov/universe/)
+- [NASA · Sistema solar](https://science.nasa.gov/solar-system/)
+- [NASA · Universo](https://science.nasa.gov/universe/)
 
 ## Yachaywasipaq huk ruray
 
 Qallariq tapuy: ¿imaraykutaq Killapa qhawasqanchik k'anchasqa t'aqan tikrakun? Kay rurayqa huk rikuchina modelota hap'in. Huk modeloqa imapa wakin kayninkunata rikuchin, mana llapan ñut'u kayninkunatachu.
 
-Hap'inakuna: huk apaykachana k'anchana, llamp'u llimp'iyuq rump'u, k'anchayta pisiyachina kiti ima. K'anchanaqa Intita riqsichin. Rump'uqa Killata riqsichin. Qhawaq runaqa kay Pachamanta qhawariyta riqsichin.
+Materialkuna: huk linterna, claro llimp'iyuq pelota, k'anchayta pisiyachina kiti. Linternaqa Intita rikuchin. Pelotaqa Killata rikuchin. Qhawaq runaqa kay Pachamanta qhawaqta rikuchin.
 
-K'anchanata ama kuyuchiychu. Huk runa rump'uta qhawaqpa muyuriqninpi allillamanta kuyuchichun. Rump'uta umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. K'anchanawan ñawikunaman ama k'anchaychu.
+Linternata ama kuyuchiychu. Huk runa pelotata qhawaqpa muyuriqninpi allillamanta kuyuchichun. Pelotata umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. Linternawan ñawikunaman ama k'anchaychu.
 
-Rump'upa ima t'aqan k'anchayta chaskisqanta, ima k'anchasqa t'aqanta qhawayta atisqaykitapas qhaway. Kimsa maypi kasqanta siq'iy. K'anchasqa t'aqawan rikuna t'aqapa hukniray kayninmanta rimanakuy.
+Pelotapa ima t'aqan k'anchayta chaskisqanta, chaymanta ima t'aqanta qhawayta atisqaykitapas qhaway. Kimsa posicionta siq'iy. K'anchasqa t'aqawan rikusqayki t'aqa imayna hukniray kasqanmanta rimay.
 
-Kay modeloqa mana chiqaq karu kaykunatachu nitaq sayaykunatachu riqsichin. Kikinmantaqa mana eclipse nisqa wañuykunapa p'unchawninkunatapas sut'ichanchu. K'anchasqa rump'uta qhawarisqanchik imayna tikrakusqanta rikuchinanpaqmi.
+Kay modeloqa mana chiqaq distanciakunatachu nitaq sayaykunatachu rikuchin. Mana eclipsekunapa fechantapas sut'ichanchu. K'anchasqa pelotata qhawaspa, imayna rikhuriynin tikrakusqanta yachanapaqmi.
 
-### Kuska ruranapaq llamk'ay
+### Kuska ruranapaq actividad
 
 Sapa ruraq huk siq'ita sut'ichachun. Munasqanku simipi rimayta atinku. Tapuyninkuna puchuptinqa qillqachunku, wak huñunakuypi yachaqanankupaq.
 

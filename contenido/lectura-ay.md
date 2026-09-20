@@ -1,42 +1,42 @@
 # QAS · Quechua Aimara Space
 
-Alaxpachata yatiqma, jasaki qhanañchawinakampi lurawinakampi. QAS ukaxa alaxpachata yatiña Perú suyuna ayllunakapana arunakapampi chikthapiyi.
+Willkata, Phaxsita, wara waranakata arusana yatiqañäni. QAS ukanxa jasaki qillqatanakampi mayacht'asis lurañataki actividadnakampi utji.
 
 IA yanapampi jaqukipata. Markankiri parlirinakana uñakipañapa suyasiskiwa.
 
-## Wara waranakampi jach'a tantachawinakapampi
+## Wara waranakampi galaxianakampi
 
 Wara waranakaxa junt'u gas ukata lurata jach'a muruq'unakawa. Manqhapana ch'ama utjayapxi. Willkasaxa uka wara waranakat maynïriwa. Yaqha wara waranakana qhanapaxa nayranakasaru puriñatakixa maranakawa pasi. Alaxpacha uñjañaxa nayra pacha uñjañarakïwa.
 
-Wara waranakaxa galaxia sat jach'a tantachawinakana tantachasipxi. Jiwasaxa Vía Láctea sutini tantachawina jakastana. Ukanxa waranqa millón wara waranakawa utji. Ch'amaka arumanxa mä chiqapaxa alaxpacha paskiri llamp'u qhana siqjamawa uñjasi.
+Galaxia sataxa walja wara waranakana tantachawipawa. Jiwasaxa Vía Láctea sutini galaxiana jakastana. Ukanxa miles de millones sata walja wara waranakawa utji. Ch'amaka arumanxa mä chiqapaxa alaxpachana llamp'u qhana siqjamawa uñjasi.
 
-Nebulosa satanakaxa gas ukat laq'a qinayanakawa. Yaqhipanakana wara waranakawa utji. Yaqhipanakasti wara waranakana jakañapa tukuyasina anqaru jaqsuta yänaka katupxi. Telescopio sat jaya uñjañana apsuta jamuqanakaxa nayranakasampi jan sapa kuti amuyañjama jisk'a chiqanakampi saminakampi uñacht'ayi.
+Nebulosanakaxa gas ukat laq'a qinayanakawa. Yaqhipa uka qinayanakana machaq wara waranakawa yuri. Yaqhipansti wara waranakana jakañapa tukuyasina anqaru jaqsuta yänakawa utji. Telescopiompi apsuta fotonakanxa nayranakasampi jan uñjañjama jisk'a chiqanakampi saminakampi uñjasi.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
 Uñt'añataki: pä wara wara tama siqsuma, mä hora qhipata wasitat uñakipma. ¿Kawkhankatapa mayjt'iti? Uraqina pachpa muyutapaxa wara waranakaruxa alaxpachana sarnaqirjama uñacht'ayi.
 
 ### Yatiqaskakiñataki utjirinaka
 
-- [NASA · Alaxpacha](https://science.nasa.gov/universe/)
+- [NASA · Universo](https://science.nasa.gov/universe/)
 
-## Willkampi muyuri masinakapampi
+## Sistema solar
 
-Willkampi muyupana sariri yänakampi sistema solar sata utt'ayapxi. Willkaxa mä wara warawa. Planeta sata yänakaxa jilpachaxa Willkana qhanapa kutt'ayasinawa lliphipipxi.
+Sistema solar ukaxa Willkampi muyupana sariri planetanakampi yaqha yänakampiwa. Willkaxa mä wara warawa. Planetanakaxa jilpachaxa Willkana qhanapa kutt'ayasawa lliphipipxi.
 
 Willkatpacha jakthapisina, kimsaqallqu planetanakaxa Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno ukanakawa. Nayrïri pusi planetanakaxa qala patanïpxiwa. Júpiter ukat Saturno jach'a gas planetanakawa. Urano ukat Neptuno jach'a chhullunkha planetanakawa sata.
 
 Saturnona muyu siwinakapaxa jan jakt'kaña chhullunkha, qala t'unanakanïwa. Siqitanakana mä sapa ch'ullqhi yäjama uñjasipkchisa, kunaymana tañani jisk'a t'unanakat luratawa.
 
-Phaxsinaka, asteroide sat qala yänaka, cometa sat wich'inkhani yänaka, Plutón ukjama jisk'a planetanakasa utjarakiwa. Phaxsisaxa janiwa pachpa qhanapa utjaykiti. Willkana qhantayata chiqapa uñjtana. Uñtasipaxa Uraqina, Phaxsina, Willkana kawkhankatapampiwa mayjt'i.
+Phaxsinaka, asteroidenaka, cometanaka, Plutón ukjama planeta enano satanakasa utji. Phaxsisaxa janiwa pachpa qhanapa utjaykiti. Willkana qhantayata chiqapa uñjtana. Uraqina, Phaxsina, Willkana kawkhankataparjamawa Phaxsina uñtasipaxa mayjt'i.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
 Lurawi: walja arumanakana Phaxsi siqsuma, uru qillqma. Willkaruxa janipuni chiqaki uñch'ukimti, janiraki pä nayrani jaya uñjañampisa telescopiompisa, Willkataki wakisiri qhana jark'aqirinaka jan utjkipanxa.
 
 ### Yatiqaskakiñataki utjirinaka
 
-- [NASA · Willkampi muyuri masinakapampi](https://science.nasa.gov/solar-system/)
+- [NASA · Sistema solar](https://science.nasa.gov/solar-system/)
 
 ## Arunakampi alaxpachampi
 
@@ -46,7 +46,7 @@ QAS ukaxa alaxpachata yatiqaña, nayra arunakataki mä chiqawja jist'araña amti
 
 Akana pusi aruna qillqatanakawa utji. Quechua ukat Aimara aruru jaqukipatanakaxa IA yanapampi lurata nayrïri qillqatanakakïskiwa. Ayllunakankiri parlirinakana uñakipañapa askichañapa suyasipki.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
 Mayacht'asis lurañataki: wilamasimata mayniru jiskt'ma, kawkïri arunakampisa alaxpacharu sutichi uka tuqita. Jupana iyawsawipampi arsa, sañapsa, kawkïri ayllunkisa jan ukaxa kawkïri parlañankisa uk qillqma. Jan iyawsawi utjkipanxa sarnaqawinaksa katuqata arunaksa jan uñt'ayapxamti.
 
@@ -60,7 +60,7 @@ Mayacht'asis lurañataki: wilamasimata mayniru jiskt'ma, kawkïri arunakampisa a
 
 QAS — Quechua Aimara Space — ukaxa alaxpacha Puno, Perú suyuna ayllunakaparu jak'achayañataki mä yatichawi wakichawiwa. Yatiqirinakataki, wilamasinakataki, taqi marani yatiña muniri jaqinakataki wakichatawa.
 
-Akana alaxpachata yatiñanaka uñt'asma, arunaka yatiqasma, telescopio jan utjkipansa alaxpacha uñakipañataki irpir qillqata apaqasma.
+Akana astronomíata yatiqasma, arunaka uñt'asma. Telescopio jan utjkipansa alaxpacha uñakipañataki guía apaqasma.
 
 Qillqatanakaxa castellano, inglés, Quechua, Aimara arunakana ullañjama utji. Quechua ukat Aimara aruna jaqukipatanakaxa nayrïri qillqatanakakïskiwa. Markankiri parlirinakampi uñakipañaxa wakiskaskiwa, sapa chiqawjana parlañapa yäqasa.
 
@@ -74,8 +74,8 @@ Qulluna jamuqapaxa qhanañchañatakikiwa. Janiwa Puno markana apsuta jamuqa sat�
 
 ### Yatiqaskakiñataki utjirinaka
 
-- [NASA · Willkampi muyuri masinakapampi](https://science.nasa.gov/solar-system/)
-- [NASA · Alaxpacha](https://science.nasa.gov/universe/)
+- [NASA · Sistema solar](https://science.nasa.gov/solar-system/)
+- [NASA · Universo](https://science.nasa.gov/universe/)
 - [NASA · Willka](https://science.nasa.gov/sun/facts/)
 - [NASA · Phaxsina sunaqinakapa](https://science.nasa.gov/moon/moon-phases/)
 - [NASA · Uraqi](https://science.nasa.gov/earth/facts/)
@@ -93,7 +93,7 @@ Willkana qhanapaxa Uraqiru puriñatakixa niya kimsaqallqu minutonaka qhipt'i. Uk
 
 Willkaruxa janipuni chiqaki uñch'ukimti. Sapüru lupita jark'aqasiña lentes ukanakaxa janiwa Willka uñjañataki nayranaka jark'aqkiti. Aka lurawixa ch'iwinaka uñakipañawa, Willkaru jan uñtasa.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
 Mä jan chijini chiqawjana mä yä uraqi pataru uchma. Alwata jayp'usa ch'iwipa siqsuma. Pacha qillqma, ukatxa ch'iwinakana kawkjaru uñtatätapsa tañapsa kikipt'ayma.
 
@@ -101,9 +101,9 @@ Mä jan chijini chiqawjana mä yä uraqi pataru uchma. Alwata jayp'usa ch'iwipa 
 
 - [NASA · Willka](https://science.nasa.gov/sun/facts/)
 
-## Phaxsampi uñtasipan mayjt'awinakapampi
+## Phaxsi: kunatsa uñtasipaxa mayjt'i
 
-Phaxsixa Uraqina satélite natural sat muyuri masipawa. Satélite natural ukaxa mä planeta muyupana sariri yäwa, janiwa jaqina luratäkiti. Phaxsixa Willkana qhanapa kutt'ayi.
+Phaxsixa Uraqina satélite natural satapawa. Ukaxa mä planeta muyupana sariri yäwa, janiwa jaqina luratäkiti. Phaxsixa Willkana qhanapa kutt'ayi.
 
 Phaxsina chikapaxa Willkana qhanapa katuqi. Uraqitpachaxa uka qhantata chikana mayja chiqanakapa uñjtana. Ukatwa mayja uñnaqani tukurjama uñjasi. Uka mayjt'awinakaxa sunaqi satawa.
 
@@ -111,7 +111,7 @@ Wawa phaxsina qhantata ajanupaxa jilpachaxa Uraqita maysaru uñtatawa. Urt'a pha
 
 Phaxsina sunaqinakapaxa janiwa Uraqina ch'iwipata utjkiti. Phaxsi ch'amakt'kipanxa Uraqina ch'iwipaxa Phaxsiru ch'amakt'ayaspawa. Phaxsixa urunsa uñjasirakispawa, sunaqiparu kawkhankataparjama.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
 Mä simana Phaxsi uñakipma, uñjaskani ukhaxa. Qhantata chiqapa siqsuma, urumpi pachampi qillqma. Jan uñjksta ukhaxa, uka tuqina qinayanaka jan ukaxa utanaka utjatapa qillqma.
 
@@ -121,7 +121,7 @@ Mä simana Phaxsi uñakipma, uñjaskani ukhaxa. Qhantata chiqapa siqsuma, urumpi
 
 ## Uraqi, uru, marana pachanakapa
 
-Uraqixa jakasktan uka planetawa. Atmósfera sata muyuparu imantiri gas phatampi muyuntatawa. Patapanxa umawa utjaraki.
+Uraqixa jakasktan uka planetawa. Atmósfera sat gasanakawa muyuntayi. Patapanxa estado líquido sat umawa utjaraki.
 
 Uraqixa pachpa taypi siqiparu muyu. Uka unxtawixa rotación satawa, niya 24 horanaka qhipt'i. Willkaru uñtata chiqapanxa uruwa. Maysapansti arumawa.
 
@@ -131,9 +131,9 @@ Uraqina taypi siqipaxa k'umt'atawa. Uka k'umt'ata utjatapaxa sapa chikata Uraqin
 
 Puno ukaxa Uraqina aynacha chikatapankiwa. Mä aylluna jalluna, junt'una, thayana mayjt'awinakapaxa kawkhankataparu, qhawqha alayankataparu waykatatarakiwa. Markana pachapata parlañatakixa uñakipaña, uka chiqawjana qillqatanakapa ullañaxa askïwa.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
-Mä ch'amaka uta manqhana mä muruq'u anatañampi apnaqaña qhantayirimp apnaqma. Muruq'uxa Uraqi uñacht'ayi, qhantayiristi Willka uñacht'ayi. Muruq'u muyuyma, qhantata chiqapa kunjam mayjt'i uk uñakipma.
+Mä ch'amaka cuarto manqhana pelotampi linternampi apnaqma. Pelotaxa Uraqi uñacht'ayi, linternasti Willka uñacht'ayi. Pelota muyuyma, qhantata chiqapa kunjam mayjt'i uk uñakipma.
 
 ### Yatiqaskakiñataki utjirinaka
 
@@ -151,17 +151,17 @@ Uñjañjama yänakaxa pachampi, urumpi, chiqawjampi mayjt'apxi. Aka laphiqaxa ja
 
 Uñjatanaka kikipt'ayañaxa yatiqañaru yanapt'i. Mayja arumanakana siqitanaka imama. Janiwa taqi kunasa chiqapapunïñapäkiti. Uñjatama amtañataki yanapt'añapakiwa wakisi.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
-Laphiqana tukuyapankki uka uñakipaña irpir qillqata apaqma. Mä uñjata qillqawi phuqachma, ukatxa yaqha jaqina qillqatapampi kikipt'ayma. ¿Kunsa kikpa uñjapxtaxa?
+Aka laphi tukuyana guía apaqma. Uñjatama qillqma, ukatxa yaqha jaqina qillqatapampi kikipt'ayma. ¿Kunsa kikpa uñjapxtaxa?
 
 ### Yatiqaskakiñataki utjirinaka
 
-- [NASA · Alaxpacha](https://science.nasa.gov/universe/)
+- [NASA · Universo](https://science.nasa.gov/universe/)
 
-## Alaxpachata yatiqañataki arunaka
+## Astronomíata yatiqañataki arunaka
 
-Alaxpachata yatiñaxa alaxpachana yänakapa, taqi pachana kunanakatï luraski ukanaka yatxati. Aka aru pirwaxa QAS qillqatanakana utjiri arunaka qhanañchi.
+Astronomíaxa universona yänakapa, kunanakatï ukan luraski ukanaka yatxati. Aka glosario ukaxa QAS qillqatanakana arunakapata qhanañchi.
 
 Sañanakapaxa yatiñ amuyunaka qhanañchi. Jaqukipañanxa aylluna jan kikpa apnaqata aru utjkchi ukhaxa, mä jisk'a qhanañchawi apnaqasispawa.
 
@@ -169,44 +169,44 @@ Sañanakapaxa yatiñ amuyunaka qhanañchi. Jaqukipañanxa aylluna jan kikpa apna
 
 **Planeta**: Willka muyuna niya muruq'u yä, Willka muyupana sariri. Janiwa phaxsïkiti. Muyuna chiqawjapanxa jupana waythapiña ch'amapaxa yaqha yänakana ch'amapat sipansa jilïriwa.
 
-**Muyu sara**: Waythapiña ch'amampi mä yä yaqha yä muyupana sarki uka thakhi.
+**Órbita · muyu sara**: Waythapiña ch'amampi mä yä yaqha yä muyupana sarki uka thakhi.
 
-**Waythapiña ch'ama**: Masani yänakana maynit maynikama waythapisitapa. Planetanakaru Willka muyupana sarayi.
+**Gravedad · waythapiña ch'ama**: Masani yänakana maynit maynikama waythapisitapa. Planetanakaru Willka muyupana sarayi.
 
-**Jani jaqina lurata muyuri masi**: Jani jaqina lurata yä, mä planeta jan ukaxa juk'ampi jach'a yä muyupana sariri. Phaxsixa Uraqi muyupana sari.
+**Satélite natural**: Jani jaqina lurata yä, mä planeta jan ukaxa juk'ampi jach'a yä muyupana sariri. Phaxsixa Uraqi muyupana sari.
 
-**Wara waranakana jach'a tantachawipa**: Waythapiña ch'amampi mayachata wara waranaka, gas, laq'a, jan uñjañjama materia oscura sata yä.
+**Galaxia**: Waythapiña ch'amampi mayachata wara waranaka, gas, laq'a, jan uñjañjama materia oscura sata yä.
 
-**Wara waranakana siqipa**: Alaxpachana qurpata chiqawja. Wara waranak taypina amuyumpi lurata mä siqimpi chikthapiyasi. Uka wara waranakaxa maynit maynikama wali jayankapxaspawa.
+**Constelación**: Alaxpachana qurpata chiqawja. Wara waranak taypina amuyumpi lurata mä siqimpi chikthapiyasi. Uka wara waranakaxa maynit maynikama wali jayankapxaspawa.
 
-**Mä marana qhanana saratapa**: Qhanana mä marana saratapa jayankawi. Jayankawi tupuñatakiwa, janiwa pacha tupuñatakïkiti.
+**Año luz**: Qhanana mä marana saratapa jayankawi. Jayankawi tupuñatakiwa, janiwa pacha tupuñatakïkiti.
 
-**Gas ukat laq'a qinaya**: Alaxpachana gas ukat laq'a qinaya. Yaqhipa uka qinayanakana wara waranakawa utji.
+**Nebulosa**: Alaxpachana gas ukat laq'a qinaya. Yaqhipa uka qinayanakana machaq wara waranakawa yuri.
 
-**Gas phata**: Mä yä, Uraqi ukjama, muyuparu imantiri gas phata.
+**Atmósfera**: Mä yä, Uraqi ukjama, muyuparu imantiri gas phata.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
 Kimsa aru ajllima. Sapa aru pachpa arunakamampi qhanañchma, ukatxa mä siqita yapxatma.
 
 ### Yatiqaskakiñataki utjirinaka
 
-- [NASA · Willkampi muyuri masinakapampi](https://science.nasa.gov/solar-system/)
-- [NASA · Alaxpacha](https://science.nasa.gov/universe/)
+- [NASA · Sistema solar](https://science.nasa.gov/solar-system/)
+- [NASA · Universo](https://science.nasa.gov/universe/)
 
 ## Yatiqañ utataki mä lurawi
 
 Qallta jiskt'a: ¿kunatsa uñjktan uka Phaxsina qhantata chiqapa mayjt'i? Aka lurawixa mä uñacht'ayiri modelo apnaqi. Mä modeloxa mä lurawina yaqhipa chiqanakapa uñacht'ayi, janiwa taqi jisk'a chiqanakapakiti.
 
-Yänaka: mä apnaqaña qhantayiri, qhana samini muruq'u, qhana jisk'achañjama chiqawja. Qhantayirixa Willka uñacht'ayi. Muruq'uxa Phaxsi uñacht'ayi. Uñch'ukiri jaqixa Uraqitpacha uñtawi uñacht'ayi.
+Materialnaka: mä linterna, qhana samini pelota, qhana jisk'achañjama chiqawja. Linternaxa Willka uñacht'ayi. Pelotaxa Phaxsi uñacht'ayi. Uñch'ukiri jaqixa Uraqitpacha uñtawi uñacht'ayi.
 
-Qhantayiri mä chiqanak katxäsma. Yaqha jaqixa muruq'u uñch'ukiri jaqina muyuparu k'achata unxtaypan. Muruq'u p'iqita mä juk'a alayaru katxäsma, janchixa qhana jan jark'añapataki. Qhantayirixa nayranakaru jan qhantaypanti.
+Linterna mä chiqana katxäsma. Yaqha jaqixa pelota uñch'ukiri jaqina muyuparu k'achata unxtaypan. Pelota p'iqita mä juk'a alayaru katxäsma, janchixa qhana jan jark'añapataki. Nayranakaru linternampi jan qhantayapxamti.
 
-Muruq'una kawkïri chiqapatï qhana katuqki, kawkïri qhantata chiqapsa uñjasma uk uñakipma. Kimsa kawkhankatapa siqsuma. Qhantata chiqampi uñjañjama chiqampi kunansa mayjapxi uka tuqita aruskipma.
+Pelotana kawkïri chiqapatï qhana katuqki, kawkïri qhantata chiqapsa uñjasma uk uñakipma. Kimsa posición jamuqama. Qhantata chiqampi uñjañjama chiqampi kunansa mayjapxi uka tuqita aruskipma.
 
-Modeloxa janiwa chiqapa jayankawinaksa tañanaksa uñacht'aykiti. Jupatakixa janiwa eclipse sat ch'amakt'awinakana urunakapatsa qhanañchkiti. Qhantata muruq'uru uñjatasa kunjamsa mayjt'i uka uñacht'ayañatakiwa.
+Aka modeloxa janiwa chiqapa distancianaksa tañanaksa uñacht'aykiti. Janiwa eclipsenakana fechanakapsa qhanañchkiti. Qhantata pelota uñjatasaxa kunjamsa mayjt'i uka uñacht'ayañatakiwa.
 
-### Mayacht'asis lurañataki
+### Mayacht'asis lurañataki actividad
 
 Sapa luririxa mä siqita qhanañchpan. Munapki uka arumpiwa parlapxaspa. Jiskt'anaka utjaskchi ukhaxa qillqapxpan, yaqha tantachawina yatxatañataki.
 

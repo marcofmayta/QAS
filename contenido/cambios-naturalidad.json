@@ -1,0 +1,704 @@
+[
+  {
+    "idioma": "qu",
+    "id": "ui.explore",
+    "antes": "Tiqsi muyuta riqsiy",
+    "despues": "Universomanta yachay"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.heroDescription",
+    "antes": "Hanaq pachamanta yachay, mana sasa sut'ichaykunawan ruraykunawan ima. QAS hanaq pacha yachayta Perú suyupi ayllukunapa siminkunawan tinkuchin.",
+    "despues": "Intimanta, Killamanta, quyllurkunamantapas siminchikpi yachasun. QAS nisqapi mana sasa qillqakuna, kuska ruranapaq actividadkunapas kachkan."
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.everyone",
+    "antes": "Tukuy wiñayniyuqkunapaq",
+    "despues": "Wawakunapaq, kuraqkunapaqpas"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.place",
+    "antes": "Yuyayniykupa paqarinan: Andes suyupa hanaq pachan",
+    "despues": "Andes suyupa hanaq pachan yachayta munachiwanchik"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.exploreTitle",
+    "antes": "Riqsinapaq huk tiqsi muyu",
+    "despues": "Universomanta astawan yachasun"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.exploreDescription",
+    "antes": "Huk yachana t'aqata akllay. Sut'ichayta ñawinchay, hinaspa huk rurayta ruray.",
+    "despues": "Huk temata akllay. Qillqata ñawinchay, hinaspa actividadta ruray."
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.viewAll",
+    "antes": "Tukuy yachana t'aqakunata qhaway",
+    "despues": "Tukuy temakunata qhaway"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.filterTopics",
+    "antes": "Yachana t'aqakunata akllay",
+    "despues": "Temakunata akllay"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.astronomy",
+    "antes": "Hanaq pacha yachay",
+    "despues": "Astronomía"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.astronomyTag",
+    "antes": "HANAQ PACHA YACHAY",
+    "despues": "ASTRONOMÍA"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.solar",
+    "antes": "Intiwan muyuqmasinkuna",
+    "despues": "Sistema solar"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.solarTag",
+    "antes": "INTIWAN MUYUQMASINKUNA",
+    "despues": "SISTEMA SOLAR"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.rootsTitle",
+    "antes": "Yachaykunata yachanchik, siminchikkunatapas chaninchanchik.",
+    "despues": "Cienciamanta yachasun, siminchikkunatapas chaninchasun."
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.rootsDescription",
+    "antes": "Hanaq pacha yachaymanta sut'ichaykunata, hanaq pachata sutinchanapaq simikunatapas rakikunanchikpaq qunchik. Sapa ayllupa yachayninkuna kikinpa rimayninwan yaykun.",
+    "despues": "Astronomíamanta yachasun, hanaq pachata sutinchanapaq simikunatapas riqsisun. Sapa ayllu kikinpa yachayninta kikinpa siminpi willanqa."
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.rootsButton",
+    "antes": "Simikuna, aylluwan",
+    "despues": "Simikunawan ayllunchik"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.observeDescription",
+    "antes": "Qallarinaykipaq mana karu qhawana telescopio nisqata munankichu. Aylluykiwan utaq llaqtamasiykikunawan quyllurkuna urapi kuska kay. Riqsisqaykikunata qillqanaykipaq qillqana mayt'uta apay.",
+    "despues": "Telescopio mana kaptinpas qallariyta atinki. Familiaykiwan utaq aylluykiwan quyllurkunata qhaway. Huk cuadernota apay, rikusqaykita qillqanaykipaq."
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.download",
+    "antes": "Qhawarinapaq pusana qillqata uraykachiy",
+    "despues": "Guíata descargay"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.step3",
+    "antes": "Qhawasqaykita siq'iy. Pachata, kitita, aylluykipa hanaq pachata sutinchanan simikunatapas qillqay.",
+    "despues": "Rikusqaykita siq'iy. Horata, maypi kasqaykita, familiaykipa hanaq pachamanta rimanan simikunatapas qillqay."
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.mainNav",
+    "antes": "Hatun purina",
+    "despues": "Menú principal"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.activity",
+    "antes": "Kuska ruranapaq llamk'ay",
+    "despues": "Kuska ruranapaq actividad"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.logDate",
+    "antes": "P'unchaw:",
+    "despues": "Fecha:"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.logTime",
+    "antes": "Pacha:",
+    "despues": "Hora:"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.learning",
+    "antes": "Ruraykuna",
+    "despues": "Actividadkuna"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.learningTag",
+    "antes": "RURAYKUNA",
+    "despues": "ACTIVIDADKUNA"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.noScript",
+    "antes": "Qillqakuna, simikunapa t'inkinkunapas JavaScript mana kaptinpas llamk'anku. Akllanakunata, kuyuykunatawan llamk'achinaykipaq JavaScript nisqata llamk'achiy.",
+    "despues": "JavaScript mana kaptinpas qillqakunata ñawinchayta, simitapas akllayta atinki. Filtrokunawan animacionkunata llamk'achinaykipaq JavaScript nisqata activay."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.stars.title",
+    "antes": "Quyllurkuna, hatun huñunkunawan",
+    "despues": "Quyllurkunawan galaxiakuna"
+  },
+  {
+    "idioma": "qu",
+    "id": "article.stars.summary",
+    "antes": "Quyllurkunata, hatun huñunkunata, hanaq pachapi gas phuyukunatapas riqsiy.",
+    "despues": "Quyllurkunata, galaxiakunata, nebulosakunatapas riqsiy."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.stars.p2",
+    "antes": "Quyllurkunaqa galaxia nisqa hatun huñukunapi huñunakunku. Ñuqanchikqa Vía Láctea sutiyuq huñupi kawsanchik. Chaypi waranqa hunu quyllurkuna kachkan. Tutayaq tutapi wakin k'anchayninta hanaq pachata chimpachiq llamp'u siq'ihina qhawayta atinchik.",
+    "despues": "Galaxia nisqapi achka quyllurkuna huñunasqa kachkan. Ñuqanchikqa Vía Láctea sutiyuq galaxiapi kawsanchik. Chaypi miles de millones nisqa achka quyllurkuna kachkan. Tutayaq tutapi, wakin k'anchayninta hanaq pachapi huk llamp'u siq'ihina qhawayta atinchik."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.planets.title",
+    "antes": "Intiwan muyuqmasinkuna",
+    "despues": "Sistema solar"
+  },
+  {
+    "idioma": "qu",
+    "id": "article.planets.p1",
+    "antes": "Intiwan paypa muyuriqninpi puriqkurkuna sistema solar nisqata ruran. Intiqa huk quyllurmi. Planeta nisqa puriqkurkunaqa aswanta Intipa k'anchayninta kutichispa lliphipinku.",
+    "despues": "Sistema solar nisqapi Intiwan muyuriqninpi puriq planetakuna, wak imakunapas kanku. Intiqa huk quyllurmi. Planetakunaqa aswanta Intipa k'anchayninta kutichispa lliphipinku."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.planets.p2",
+    "antes": "Intimanta yupaspa, pusaq planetakunaqa Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno ima. Ñawpaq tawa planetakunapa hawanqa qaqamanta. Júpiterwan Saturno hatun gas planetakunan. Uranowan Neptunotaqa rit'imanta hatun planetakunapi churanku.",
+    "despues": "Intimanta yupaspa, pusaq planetakunaqa Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno ima. Ñawpaq tawa planetakunapa hawanqa rumimanta. Júpiterwan Saturno hatun gas planetakunan. Uranowan Neptunotaqa gigantes de hielo nispa sutinchanku."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.planets.p4",
+    "antes": "Killakunapas, asteroide nisqa qaqa kurkukunapas, cometa nisqa chupa kurkukunapas, Plutón hina huch'uy planetakunapas kanku. Killanchikqa mana kikin k'anchayninta paqarichinchu. Inti k'anchasqan t'aqatam qhawanchik. Rikhuriynin kay Pachapa, Killapa, Intipa kuska maypi kasqankuman hina tikrakun.",
+    "despues": "Killakuna, asteroidekuna, cometakuna, Plutón hina planeta enano nisqakunapas kanku. Killanchikqa mana kikin k'anchayninta paqarichinchu. Inti k'anchasqan t'aqatam qhawanchik. Killa, kay Pacha, Intipas maypi kasqankuman hina, Killapa rikhuriynin tikrakun."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.mission.p2",
+    "antes": "Kaypi hanaq pacha yachaykunata riqsiyta, simikunata yachayta, karu qhawana telescopio mana kaptinpas hanaq pachata qhawarinapaq pusana qillqata uraykachiytapas atinki.",
+    "despues": "Kaypi astronomíamanta yachayta, musuq simikunata riqsiyta atinki. Telescopio mana kaptinpas hanaq pachata qhawanapaq guíata descargayta atinki."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.moon.title",
+    "antes": "Killa, rikhuriyninpa tikraykunawan",
+    "despues": "Killa: imarayku rikhuriynin tikrakun"
+  },
+  {
+    "idioma": "qu",
+    "id": "article.moon.p1",
+    "antes": "Killaqa kay Pachapa muyuriqninpi puriq satélite natural nisqan. Satélite natural nisqa kurkuqa huk planetapa muyuriqninpi purin, mana runa rurasqachu. Killa Intipa k'anchayninta kutichin.",
+    "despues": "Killaqa kay Pachapa satélite natural nisqan. Chayqa huk planetapa muyuriqninpi puriqmi, mana runa rurasqachu. Killa Intipa k'anchayninta kutichin."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.moon.p4",
+    "antes": "Killapa rikhuriyninpa tikraykunaqa mana kay Pachapa llant'unraykuchu kan. Killa wañuypiqa kay Pachapa llant'un Killata tutayachiyta atin. Killaqa p'unchaypipas rikukuyta atin, rikhuriyninman maypi kasqanman hina.",
+    "despues": "Killapa fasekunaqa mana kay Pachapa llant'unraykuchu kan. Eclipse lunar nisqapitaq kay Pachapa llant'un Killata tutayachiyta atin. Killaqa p'unchawpipas rikukunman, maypi kasqanman, fasenman hina."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.earth.activity",
+    "antes": "Huk tutayaq wasipi rump'uta, apaykachana k'anchanatawan hap'iy. Rump'u kay Pachata riqsichin, k'anchanataq Intita. Rump'uta muyuchiy, hinaspa k'anchasqa t'aqan imayna tikrakusqanta qhaway.",
+    "despues": "Huk tutayaq cuartopi pelotata, linternatawan hap'iy. Pelotaqa kay Pachata rikuchin, linternataq Intita. Pelotata muyuchiy, k'anchasqa t'aqan imayna tikrakusqanta qhaway."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.observe.p2",
+    "antes": "Pisi phuyuyuq tutata, runa rurasqan k'anchay pisi kanan kitita maskhay. Ñawiykikuna tutayayman yachakuchunku. Mana karu qhawana telescopio nisqawanpas Killata, aswan lliphipiq quyllurkunata qhawaspa qallariyta atinki.",
+    "despues": "Pisi phuyuyuq tutata, pisi luz artificial nisqayuq kitita maskhay. Ñawiykikuna tutayayman yachakuchunku. Telescopio mana kaptinpas Killata, aswan lliphipiq quyllurkunatapas qhawayta atinki."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.observe.activity",
+    "antes": "P'anqapa tukukuyninpi qhawarinapaq pusana qillqata uraykachiy. Huk qhawasqaykipa qillqanta hunt'achiy, hinaspa huk runapa qillqanwan tupachiy. ¿Imakunata kuskalla qhawarqankichik?",
+    "despues": "P'anqapa tukukuyninpi guíata descargay. Rikusqaykita qillqay, hinaspa huk runapa qillqasqanwan tupachiy. ¿Imakunata kuskalla qhawarqankichik?"
+  },
+  {
+    "idioma": "qu",
+    "id": "article.glossary.title",
+    "antes": "Hanaq pacha yachayta yachanapaq simikuna",
+    "despues": "Astronomíamanta simikuna"
+  },
+  {
+    "idioma": "qu",
+    "id": "article.glossary.p1",
+    "antes": "Hanaq pacha yachayqa hanaq pachapi kurkukunata, tiqsi muyupi ima kasqankunatapas yachaqan. Kay simi pirwa QAS qillqakunapi rikhuriq simikunata sut'ichan.",
+    "despues": "Astronomíaqa universopi kaqkunata, chaypi ima kasqantapas yachaqan. Kay glosariopi QAS qillqakunapa siminkunata sut'ichayku."
+  },
+  {
+    "idioma": "qu",
+    "id": "glossary.orbit.term",
+    "antes": "Muyuna ñan",
+    "despues": "Órbita · muyuna ñan"
+  },
+  {
+    "idioma": "qu",
+    "id": "glossary.gravity.term",
+    "antes": "Aysay kallpa",
+    "despues": "Gravedad · aysay kallpa"
+  },
+  {
+    "idioma": "qu",
+    "id": "glossary.satellite.term",
+    "antes": "Kikin pachapi paqarisqa muyuqmasi",
+    "despues": "Satélite natural"
+  },
+  {
+    "idioma": "qu",
+    "id": "glossary.galaxy.term",
+    "antes": "Quyllurkunapa hatun huñun",
+    "despues": "Galaxia"
+  },
+  {
+    "idioma": "qu",
+    "id": "glossary.constellation.term",
+    "antes": "Quyllurkuna t'aqa",
+    "despues": "Constelación"
+  },
+  {
+    "idioma": "qu",
+    "id": "glossary.lightyear.term",
+    "antes": "Huk watapi k'anchaypa purisqan",
+    "despues": "Año luz"
+  },
+  {
+    "idioma": "qu",
+    "id": "glossary.nebula.term",
+    "antes": "Gaswan ñut'u allpapa phuyun",
+    "despues": "Nebulosa"
+  },
+  {
+    "idioma": "qu",
+    "id": "glossary.atmosphere.term",
+    "antes": "Gas qata",
+    "despues": "Atmósfera"
+  },
+  {
+    "idioma": "qu",
+    "id": "article.classroom.p2",
+    "antes": "Hap'inakuna: huk apaykachana k'anchana, llamp'u llimp'iyuq rump'u, k'anchayta pisiyachina kiti ima. K'anchanaqa Intita riqsichin. Rump'uqa Killata riqsichin. Qhawaq runaqa kay Pachamanta qhawariyta riqsichin.",
+    "despues": "Materialkuna: huk linterna, claro llimp'iyuq pelota, k'anchayta pisiyachina kiti. Linternaqa Intita rikuchin. Pelotaqa Killata rikuchin. Qhawaq runaqa kay Pachamanta qhawaqta rikuchin."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.classroom.p3",
+    "antes": "K'anchanata ama kuyuchiychu. Huk runa rump'uta qhawaqpa muyuriqninpi allillamanta kuyuchichun. Rump'uta umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. K'anchanawan ñawikunaman ama k'anchaychu.",
+    "despues": "Linternata ama kuyuchiychu. Huk runa pelotata qhawaqpa muyuriqninpi allillamanta kuyuchichun. Pelotata umamanta aslla hanaqpi hap'iy, runapa kurkun k'anchayta ama hark'ananpaq. Linternawan ñawikunaman ama k'anchaychu."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.classroom.p4",
+    "antes": "Rump'upa ima t'aqan k'anchayta chaskisqanta, ima k'anchasqa t'aqanta qhawayta atisqaykitapas qhaway. Kimsa maypi kasqanta siq'iy. K'anchasqa t'aqawan rikuna t'aqapa hukniray kayninmanta rimanakuy.",
+    "despues": "Pelotapa ima t'aqan k'anchayta chaskisqanta, chaymanta ima t'aqanta qhawayta atisqaykitapas qhaway. Kimsa posicionta siq'iy. K'anchasqa t'aqawan rikusqayki t'aqa imayna hukniray kasqanmanta rimay."
+  },
+  {
+    "idioma": "qu",
+    "id": "article.classroom.p5",
+    "antes": "Kay modeloqa mana chiqaq karu kaykunatachu nitaq sayaykunatachu riqsichin. Kikinmantaqa mana eclipse nisqa wañuykunapa p'unchawninkunatapas sut'ichanchu. K'anchasqa rump'uta qhawarisqanchik imayna tikrakusqanta rikuchinanpaqmi.",
+    "despues": "Kay modeloqa mana chiqaq distanciakunatachu nitaq sayaykunatachu rikuchin. Mana eclipsekunapa fechantapas sut'ichanchu. K'anchasqa pelotata qhawaspa, imayna rikhuriynin tikrakusqanta yachanapaqmi."
+  },
+  {
+    "idioma": "qu",
+    "id": "source.solar",
+    "antes": "NASA · Intiwan muyuqmasinkuna",
+    "despues": "NASA · Sistema solar"
+  },
+  {
+    "idioma": "qu",
+    "id": "source.universe",
+    "antes": "NASA · Tiqsi muyu",
+    "despues": "NASA · Universo"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.volunteerDesign",
+    "antes": "Siq'i wakichiy",
+    "despues": "Diseño"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.volunteerMarketing",
+    "antes": "Riqsichiy",
+    "despues": "Marketing, difusión"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.volunteerCode",
+    "antes": "Computadorapaq kamachiy qillqay",
+    "despues": "Programación"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.shareImage",
+    "antes": "Qillqasqata rikch'ay hina uraykachiy",
+    "despues": "Imagen hina descargay"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.copyPost",
+    "antes": "Tukuy qillqasqata copiay",
+    "despues": "Tukuy qillqata copiay"
+  },
+  {
+    "idioma": "qu",
+    "id": "ui.shareText",
+    "antes": "Rakinapaq qillqasqa",
+    "despues": "LinkedIn nisqapi churanapaq qillqa"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.explore",
+    "antes": "Alaxpacha uñt'ama",
+    "despues": "Universota yatiqma"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.heroDescription",
+    "antes": "Alaxpachata yatiqma, jasaki qhanañchawinakampi lurawinakampi. QAS ukaxa alaxpachata yatiña Perú suyuna ayllunakapana arunakapampi chikthapiyi.",
+    "despues": "Willkata, Phaxsita, wara waranakata arusana yatiqañäni. QAS ukanxa jasaki qillqatanakampi mayacht'asis lurañataki actividadnakampi utji."
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.everyone",
+    "antes": "Taqi marani jaqinakataki",
+    "despues": "Wawanakataki, jilïrinakatakisa"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.exploreTitle",
+    "antes": "Uñt'añataki mä alaxpacha",
+    "despues": "Universota juk'ampi yatiqañäni"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.exploreDescription",
+    "antes": "Mä yatichawi ajllima. Mä qhanañchawi ullama, ukatxa mä lurawi lurama.",
+    "despues": "Mä tema ajllima. Qillqata ullama, ukatxa actividad lurama."
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.viewAll",
+    "antes": "Taqi yatichawinaka uñjaña",
+    "despues": "Taqi temanaka uñjaña"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.filterTopics",
+    "antes": "Yatichawinaka ajlliña",
+    "despues": "Temanaka ajlliña"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.astronomy",
+    "antes": "Alaxpachata yatiña",
+    "despues": "Astronomía"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.astronomyTag",
+    "antes": "ALAXPACHATA YATIÑA",
+    "despues": "ASTRONOMÍA"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.solar",
+    "antes": "Willkampi muyuri masinakapampi",
+    "despues": "Sistema solar"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.solarTag",
+    "antes": "WILLKAMPI MUYURI MASINAKAPAMPI",
+    "despues": "SISTEMA SOLAR"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.rootsTitle",
+    "antes": "Yatiñanaka yatiqtana, arunakasa wali askit uñjtana.",
+    "despues": "Cienciata yatiqañäni, arunakasarusa yäqañäni."
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.rootsDescription",
+    "antes": "Alaxpachata qhanañchawinaka, alaxpacharu sutichañataki arunaka chikachastana. Sapa aylluna yatiñanakapaxa pachpa arunakapampi mantani.",
+    "despues": "Astronomíata yatiqañäni, alaxpacharu sutichañataki arunaksa uñt'añäni. Sapa aylluxa yatiñanakapa pachpa arupampi yatiyani."
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.observeDescription",
+    "antes": "Qalltañatakixa janiwa telescopio sat jaya uñjaña munaskiti. Wilamasimampi jan ukaxa ayllumampi wara waranaka manqhana mä juk'a pach t'aqjasipxma. Uñjatama qillqañataki mä qillqañ panka apma.",
+    "despues": "Qalltañatakixa janiwa telescopio wakiskiti. Wilamasimampi jan ukaxa ayllumampi wara waranaka uñakipma. Uñjatama qillqañataki mä cuaderno apma."
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.download",
+    "antes": "Uñakipaña irpir qillqata apaqaña",
+    "despues": "Guía apaqaña"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.mainNav",
+    "antes": "Jilïri saraña",
+    "despues": "Menú principal"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.activity",
+    "antes": "Mayacht'asis lurañataki",
+    "despues": "Mayacht'asis lurañataki actividad"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.logDate",
+    "antes": "Uru:",
+    "despues": "Fecha:"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.logTime",
+    "antes": "Pacha:",
+    "despues": "Hora:"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.learning",
+    "antes": "Lurawinaka",
+    "despues": "Actividadnaka"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.learningTag",
+    "antes": "LURAWINAKA",
+    "despues": "ACTIVIDADNAKA"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.noScript",
+    "antes": "Qillqatanakampi arunakana chinuñanakapampixa JavaScript jan utjkipansa irnaqapxi. Ajllirinakampi unxtawinakampi apnaqañataki JavaScript irnaqayma.",
+    "despues": "JavaScript jan utjkipansa qillqatanaka ullasma, yaqha aruru mantasma. Filtronakampi animacionanakampi apnaqañataki JavaScript activama."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.stars.title",
+    "antes": "Wara waranakampi jach'a tantachawinakapampi",
+    "despues": "Wara waranakampi galaxianakampi"
+  },
+  {
+    "idioma": "ay",
+    "id": "article.stars.summary",
+    "antes": "Wara waranaka, jach'a tantachawinakapa, alaxpachana gas qinayanaka uñt'ama.",
+    "despues": "Wara waranaka, galaxianaka, nebulosanaka uñt'ama."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.stars.p2",
+    "antes": "Wara waranakaxa galaxia sat jach'a tantachawinakana tantachasipxi. Jiwasaxa Vía Láctea sutini tantachawina jakastana. Ukanxa waranqa millón wara waranakawa utji. Ch'amaka arumanxa mä chiqapaxa alaxpacha paskiri llamp'u qhana siqjamawa uñjasi.",
+    "despues": "Galaxia sataxa walja wara waranakana tantachawipawa. Jiwasaxa Vía Láctea sutini galaxiana jakastana. Ukanxa miles de millones sata walja wara waranakawa utji. Ch'amaka arumanxa mä chiqapaxa alaxpachana llamp'u qhana siqjamawa uñjasi."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.stars.p3",
+    "antes": "Nebulosa satanakaxa gas ukat laq'a qinayanakawa. Yaqhipanakana wara waranakawa utji. Yaqhipanakasti wara waranakana jakañapa tukuyasina anqaru jaqsuta yänaka katupxi. Telescopio sat jaya uñjañana apsuta jamuqanakaxa nayranakasampi jan sapa kuti amuyañjama jisk'a chiqanakampi saminakampi uñacht'ayi.",
+    "despues": "Nebulosanakaxa gas ukat laq'a qinayanakawa. Yaqhipa uka qinayanakana machaq wara waranakawa yuri. Yaqhipansti wara waranakana jakañapa tukuyasina anqaru jaqsuta yänakawa utji. Telescopiompi apsuta fotonakanxa nayranakasampi jan uñjañjama jisk'a chiqanakampi saminakampi uñjasi."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.planets.title",
+    "antes": "Willkampi muyuri masinakapampi",
+    "despues": "Sistema solar"
+  },
+  {
+    "idioma": "ay",
+    "id": "article.planets.p1",
+    "antes": "Willkampi muyupana sariri yänakampi sistema solar sata utt'ayapxi. Willkaxa mä wara warawa. Planeta sata yänakaxa jilpachaxa Willkana qhanapa kutt'ayasinawa lliphipipxi.",
+    "despues": "Sistema solar ukaxa Willkampi muyupana sariri planetanakampi yaqha yänakampiwa. Willkaxa mä wara warawa. Planetanakaxa jilpachaxa Willkana qhanapa kutt'ayasawa lliphipipxi."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.planets.p4",
+    "antes": "Phaxsinaka, asteroide sat qala yänaka, cometa sat wich'inkhani yänaka, Plutón ukjama jisk'a planetanakasa utjarakiwa. Phaxsisaxa janiwa pachpa qhanapa utjaykiti. Willkana qhantayata chiqapa uñjtana. Uñtasipaxa Uraqina, Phaxsina, Willkana kawkhankatapampiwa mayjt'i.",
+    "despues": "Phaxsinaka, asteroidenaka, cometanaka, Plutón ukjama planeta enano satanakasa utji. Phaxsisaxa janiwa pachpa qhanapa utjaykiti. Willkana qhantayata chiqapa uñjtana. Uraqina, Phaxsina, Willkana kawkhankataparjamawa Phaxsina uñtasipaxa mayjt'i."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.mission.p2",
+    "antes": "Akana alaxpachata yatiñanaka uñt'asma, arunaka yatiqasma, telescopio jan utjkipansa alaxpacha uñakipañataki irpir qillqata apaqasma.",
+    "despues": "Akana astronomíata yatiqasma, arunaka uñt'asma. Telescopio jan utjkipansa alaxpacha uñakipañataki guía apaqasma."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.moon.title",
+    "antes": "Phaxsampi uñtasipan mayjt'awinakapampi",
+    "despues": "Phaxsi: kunatsa uñtasipaxa mayjt'i"
+  },
+  {
+    "idioma": "ay",
+    "id": "article.moon.p1",
+    "antes": "Phaxsixa Uraqina satélite natural sat muyuri masipawa. Satélite natural ukaxa mä planeta muyupana sariri yäwa, janiwa jaqina luratäkiti. Phaxsixa Willkana qhanapa kutt'ayi.",
+    "despues": "Phaxsixa Uraqina satélite natural satapawa. Ukaxa mä planeta muyupana sariri yäwa, janiwa jaqina luratäkiti. Phaxsixa Willkana qhanapa kutt'ayi."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.earth.p1",
+    "antes": "Uraqixa jakasktan uka planetawa. Atmósfera sata muyuparu imantiri gas phatampi muyuntatawa. Patapanxa umawa utjaraki.",
+    "despues": "Uraqixa jakasktan uka planetawa. Atmósfera sat gasanakawa muyuntayi. Patapanxa estado líquido sat umawa utjaraki."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.earth.activity",
+    "antes": "Mä ch'amaka uta manqhana mä muruq'u anatañampi apnaqaña qhantayirimp apnaqma. Muruq'uxa Uraqi uñacht'ayi, qhantayiristi Willka uñacht'ayi. Muruq'u muyuyma, qhantata chiqapa kunjam mayjt'i uk uñakipma.",
+    "despues": "Mä ch'amaka cuarto manqhana pelotampi linternampi apnaqma. Pelotaxa Uraqi uñacht'ayi, linternasti Willka uñacht'ayi. Pelota muyuyma, qhantata chiqapa kunjam mayjt'i uk uñakipma."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.observe.activity",
+    "antes": "Laphiqana tukuyapankki uka uñakipaña irpir qillqata apaqma. Mä uñjata qillqawi phuqachma, ukatxa yaqha jaqina qillqatapampi kikipt'ayma. ¿Kunsa kikpa uñjapxtaxa?",
+    "despues": "Aka laphi tukuyana guía apaqma. Uñjatama qillqma, ukatxa yaqha jaqina qillqatapampi kikipt'ayma. ¿Kunsa kikpa uñjapxtaxa?"
+  },
+  {
+    "idioma": "ay",
+    "id": "article.glossary.title",
+    "antes": "Alaxpachata yatiqañataki arunaka",
+    "despues": "Astronomíata yatiqañataki arunaka"
+  },
+  {
+    "idioma": "ay",
+    "id": "article.glossary.p1",
+    "antes": "Alaxpachata yatiñaxa alaxpachana yänakapa, taqi pachana kunanakatï luraski ukanaka yatxati. Aka aru pirwaxa QAS qillqatanakana utjiri arunaka qhanañchi.",
+    "despues": "Astronomíaxa universona yänakapa, kunanakatï ukan luraski ukanaka yatxati. Aka glosario ukaxa QAS qillqatanakana arunakapata qhanañchi."
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.orbit.term",
+    "antes": "Muyu sara",
+    "despues": "Órbita · muyu sara"
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.gravity.term",
+    "antes": "Waythapiña ch'ama",
+    "despues": "Gravedad · waythapiña ch'ama"
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.satellite.term",
+    "antes": "Jani jaqina lurata muyuri masi",
+    "despues": "Satélite natural"
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.galaxy.term",
+    "antes": "Wara waranakana jach'a tantachawipa",
+    "despues": "Galaxia"
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.constellation.term",
+    "antes": "Wara waranakana siqipa",
+    "despues": "Constelación"
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.lightyear.term",
+    "antes": "Mä marana qhanana saratapa",
+    "despues": "Año luz"
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.nebula.term",
+    "antes": "Gas ukat laq'a qinaya",
+    "despues": "Nebulosa"
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.nebula.definition",
+    "antes": "Alaxpachana gas ukat laq'a qinaya. Yaqhipa uka qinayanakana wara waranakawa utji.",
+    "despues": "Alaxpachana gas ukat laq'a qinaya. Yaqhipa uka qinayanakana machaq wara waranakawa yuri."
+  },
+  {
+    "idioma": "ay",
+    "id": "glossary.atmosphere.term",
+    "antes": "Gas phata",
+    "despues": "Atmósfera"
+  },
+  {
+    "idioma": "ay",
+    "id": "article.classroom.p2",
+    "antes": "Yänaka: mä apnaqaña qhantayiri, qhana samini muruq'u, qhana jisk'achañjama chiqawja. Qhantayirixa Willka uñacht'ayi. Muruq'uxa Phaxsi uñacht'ayi. Uñch'ukiri jaqixa Uraqitpacha uñtawi uñacht'ayi.",
+    "despues": "Materialnaka: mä linterna, qhana samini pelota, qhana jisk'achañjama chiqawja. Linternaxa Willka uñacht'ayi. Pelotaxa Phaxsi uñacht'ayi. Uñch'ukiri jaqixa Uraqitpacha uñtawi uñacht'ayi."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.classroom.p3",
+    "antes": "Qhantayiri mä chiqanak katxäsma. Yaqha jaqixa muruq'u uñch'ukiri jaqina muyuparu k'achata unxtaypan. Muruq'u p'iqita mä juk'a alayaru katxäsma, janchixa qhana jan jark'añapataki. Qhantayirixa nayranakaru jan qhantaypanti.",
+    "despues": "Linterna mä chiqana katxäsma. Yaqha jaqixa pelota uñch'ukiri jaqina muyuparu k'achata unxtaypan. Pelota p'iqita mä juk'a alayaru katxäsma, janchixa qhana jan jark'añapataki. Nayranakaru linternampi jan qhantayapxamti."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.classroom.p4",
+    "antes": "Muruq'una kawkïri chiqapatï qhana katuqki, kawkïri qhantata chiqapsa uñjasma uk uñakipma. Kimsa kawkhankatapa siqsuma. Qhantata chiqampi uñjañjama chiqampi kunansa mayjapxi uka tuqita aruskipma.",
+    "despues": "Pelotana kawkïri chiqapatï qhana katuqki, kawkïri qhantata chiqapsa uñjasma uk uñakipma. Kimsa posición jamuqama. Qhantata chiqampi uñjañjama chiqampi kunansa mayjapxi uka tuqita aruskipma."
+  },
+  {
+    "idioma": "ay",
+    "id": "article.classroom.p5",
+    "antes": "Modeloxa janiwa chiqapa jayankawinaksa tañanaksa uñacht'aykiti. Jupatakixa janiwa eclipse sat ch'amakt'awinakana urunakapatsa qhanañchkiti. Qhantata muruq'uru uñjatasa kunjamsa mayjt'i uka uñacht'ayañatakiwa.",
+    "despues": "Aka modeloxa janiwa chiqapa distancianaksa tañanaksa uñacht'aykiti. Janiwa eclipsenakana fechanakapsa qhanañchkiti. Qhantata pelota uñjatasaxa kunjamsa mayjt'i uka uñacht'ayañatakiwa."
+  },
+  {
+    "idioma": "ay",
+    "id": "source.solar",
+    "antes": "NASA · Willkampi muyuri masinakapampi",
+    "despues": "NASA · Sistema solar"
+  },
+  {
+    "idioma": "ay",
+    "id": "source.universe",
+    "antes": "NASA · Alaxpacha",
+    "despues": "NASA · Universo"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.volunteerDesign",
+    "antes": "Siqi wakichaña",
+    "despues": "Diseño"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.volunteerMarketing",
+    "antes": "Uñt'ayaña",
+    "despues": "Marketing, difusión"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.volunteerCode",
+    "antes": "Computadorataki kamachi qillqaña",
+    "despues": "Programación"
+  },
+  {
+    "idioma": "ay",
+    "id": "ui.shareImage",
+    "antes": "Qillqata jamuqjama apaqaña",
+    "despues": "Imagen apaqaña"
+  }
+]
